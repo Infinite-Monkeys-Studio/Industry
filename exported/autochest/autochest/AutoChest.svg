@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="AutoChest.svg">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB"
+       id="filter3810">
+      <feTurbulence
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91"
+         id="feTurbulence3812" />
+      <feDisplacementMap
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap3814" />
+    </filter>
+    <filter
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB"
+       id="filter3816">
+      <feTurbulence
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91"
+         id="feTurbulence3818" />
+      <feDisplacementMap
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap3820" />
+    </filter>
+    <filter
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB"
+       id="filter3822">
+      <feTurbulence
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91"
+         id="feTurbulence3824" />
+      <feDisplacementMap
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap3826" />
+    </filter>
+    <filter
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB"
+       id="filter3828">
+      <feTurbulence
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91"
+         id="feTurbulence3830" />
+      <feDisplacementMap
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap3832" />
+    </filter>
+    <filter
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB"
+       id="filter3834">
+      <feTurbulence
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91"
+         id="feTurbulence3836" />
+      <feDisplacementMap
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap3838" />
+    </filter>
+    <filter
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB"
+       id="filter3840">
+      <feTurbulence
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91"
+         id="feTurbulence3842" />
+      <feDisplacementMap
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap3844" />
+    </filter>
+    <filter
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB"
+       id="filter3846">
+      <feTurbulence
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91"
+         id="feTurbulence3848" />
+      <feDisplacementMap
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap3850" />
+    </filter>
+    <filter
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB"
+       id="filter3887">
+      <feTurbulence
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91"
+         id="feTurbulence3889" />
+      <feDisplacementMap
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap3891" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="456.31931"
+     inkscape:cy="738.57911"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="bottom"
+       inkscape:export-xdpi="5.5387869"
+       inkscape:export-ydpi="5.5387869"
+       inkscape:label="#g3022"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\industry\exported\autochest\autochest\minmap.png">
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path3893"
+         d="m 54.285715,270.21933 501.472525,-120.11166 347.0989,66.54023 -48.57142,30.71428 -47.14286,242.14286 -625,106.42857 L 135.71429,353.79075 85,335.93361 z"
+         style="fill:#1a1a1a;stroke:#000000;stroke-width:7.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <g
+         id="g3876">
+        <g
+           id="g3859">
+          <path
+             sodipodi:nodetypes="cccccccccccccccscscccccccccccccccccccc"
+             inkscape:connector-curvature="0"
+             id="path2996"
+             d="m 75.966296,296.48272 c 56.739554,14.81629 215.090284,88.89353 250.894954,97.75331 5.04839,-7.82008 -9.01444,-16.26698 6.10763,-14.53647 l 25.574,9.28826 77.84302,-19.48876 -1.01015,-24.24366 43.26324,-13.61168 5.10152,37.80458 43.20198,-11.64214 0.35714,-40.83503 43.20196,-12.95867 -0.36765,27.10081 42.42641,-14.14214 2.32669,-25.00871 34.81436,-10.70377 c 0,0 -0.23459,22.16208 3.80602,22.16208 4.04061,0 38.44707,-12.71357 38.44707,-12.71357 0,0 -3.73423,-25.42713 0.30638,-25.42713 4.04061,0 34.50799,-7.6628 34.50799,-7.6628 l 1.13271,21.96774 35.71248,-11.33576 1.30602,-24.71284 30.60044,-9.27519 0.12256,26.14141 25.36585,-8.97934 3.21428,-26.89594 32.63126,-10.11205 0.87709,18.23351 42.62075,-17.88688 -1.31653,30.48841 C 843.22016,240.34833 840.7544,458.5457 812.16265,567.48896 L 410.12193,782.65145 170.71578,630.11842 111.11678,359.39754 74.751288,348.28586 58.069404,278.59958 l 13.095908,2.50403 z"
+             style="fill:#d9d9d9;stroke:#000000;stroke-width:12.10000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;filter:url(#filter3810)" />
+          <g
+             id="g3852">
+            <path
+               style="fill:#9b9b9b;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;filter:url(#filter3816)"
+               d="m 428.57143,412.36218 44.28572,-15.71429 -11.42857,280 c -6.46811,8.7313 -13.77065,10.78718 -22.14286,4.28572 z"
+               id="path3772"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:#9b9b9b;stroke:#000000;stroke-width:8.60000038000000090;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1;filter:url(#filter3822)"
+               d="M 542.85714,373.3119 587.14286,357.59761 565,629.02618 c -6.46811,8.7313 -11.62779,12.21575 -20,5.71429 z"
+               id="path3772-1"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:#9b9b9b;stroke:#000000;stroke-width:8.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1;filter:url(#filter3828)"
+               d="m 649.28572,330.45476 44.28572,-15.71429 -23.57143,260 c 1.71457,16.40346 -16.80118,18.04526 -20.71429,3.57143 z"
+               id="path3772-7"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:#9b9b9b;stroke:#000000;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1;filter:url(#filter3834)"
+               d="m 762.85714,294.02619 44.28572,-15.71429 -31.42857,262.14286 c -6.46811,8.7313 -17.34208,12.21575 -25.71429,5.71429 z"
+               id="path3772-4"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:#9b9b9b;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;filter:url(#filter3840)"
+               d="m 147.85714,378.79075 91.42857,40.71429 -23.57142,-32.14286 -52.85715,-20.71428 z"
+               id="path3806"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:21.60000038000000100;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3846)"
+           d="m 385,419.50504 25.71429,350.71429"
+           id="path3808"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+    <g
+       id="lid"
+       transform="translate(0.3168919,62.899193)"
+       style="filter:url(#filter3887)"
+       inkscape:label="lid"
+       inkscape:export-xdpi="5.5387869"
+       inkscape:export-ydpi="5.5387869"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\industry\exported\autochest\autochest\minmap.png">
+      <title
+         id="title3020">lid</title>
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3868"
+         d="M 53.571428,200.93361 352.14286,313.79075 430,294.50504 892.85715,142.36218 561.42857,87.005039 l -10.88325,0.997631 -3.41585,-5.072297 -29.4509,6.931808 2.5,13.571429 -17.32143,4.64286 -4.10714,-14.107146 -40.89286,9.285716 2.32143,15.71428 -28.03571,5.17858 -5.71429,-13.75001 -35.17857,6.9643 5.17857,14.99999 -32.14286,7.85714 -5.17856,-16.42856 -38.92858,8.57143 5.53572,17.85713 -34.28572,6.42858 -4.46429,-16.96429 -44.64285,8.75 5.53572,18.39286 -27.32144,4.99999 -8.39285,-15.89285 -49.28572,10 5,16.42857 -42.85714,7.14286 -3.57142,-14.10714 -48.035723,8.74999 0.178572,11.78572 z"
+         style="fill:#424242;fill-opacity:1;stroke:#000000;stroke-width:8.69999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3870"
+         d="m 166.17009,238.17923 121.21831,-27.77919 130.81475,1.01015 62.62946,-17.67767 5.05076,-30.80965 51.01271,-11.61676 111.62185,-4.54568 79.29698,-27.27412"
+         style="fill:none;stroke:#000000;stroke-width:8.60000038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>

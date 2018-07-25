@@ -1,0 +1,50 @@
+auto chest
+
+
+worker
+  the basic worker. operates on a fuel source.  Run based on the item they are given.
+  One inventory slot, one tool/modual slot, one fuel slot
+  can:
+    follow mode (follow me mod)
+    cut trees (axe)
+      logic:
+        clean up?
+          find log near chest
+          pick log
+          put in chest
+        replant?
+          find seed near chest
+          plant near chest
+        cut?
+          find tree near chest
+          chop until it's down
+    run farms (straw hat)
+      logic:
+        need to plant?
+        need to harvest?
+    run barry/twig/grass farms (backpack)
+      logic:
+          need to chase off pird?
+          need to harvest?
+          need to fertalize?
+    run crockpot (cooking mod)
+  maybe can:
+    fight (spear)
+    craft (?)
+    explore (compass)
+
+moduals
+  follow me
+  cooking
+  wait mod
+    
+industry fabricator
+  used to unlock the industry crafting tab.
+  
+  
+items
+  industral part
+    basic crafting part
+  industry fuel cell
+    rechargeable fuel cell
+  
