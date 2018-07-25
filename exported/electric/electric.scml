@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b10">
+    <folder id="0" name="electric/front">
+        <file id="0" name="electric/front/chest.png" width="52" height="64" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="electric/front/front_referance.png" width="134" height="282" pivot_x="0" pivot_y="1"/>
+        <file id="2" name="electric/front/body.png" width="17" height="108" pivot_x="0" pivot_y="1"/>
+        <file id="3" name="electric/front/arm2.png" width="42" height="45" pivot_x="0" pivot_y="1"/>
+        <file id="4" name="electric/front/arm1.png" width="43" height="44" pivot_x="0" pivot_y="1"/>
+        <file id="5" name="electric/front/head.png" width="42" height="73" pivot_x="0" pivot_y="1"/>
+        <file id="6" name="electric/front/legs.png" width="79" height="83" pivot_x="0" pivot_y="1"/>
+        <file id="7" name="electric/front/neck.png" width="12" height="27" pivot_x="0" pivot_y="1"/>
+        <file id="8" name="electric/front/upperarm1.png" width="30" height="59" pivot_x="0" pivot_y="1"/>
+        <file id="9" name="electric/front/upperarm2.png" width="35" height="52" pivot_x="0" pivot_y="1"/>
+        <file id="10" name="electric/front/wheel1.png" width="16" height="33" pivot_x="0" pivot_y="1"/>
+        <file id="11" name="electric/front/wheel2.png" width="16" height="33" pivot_x="0" pivot_y="1"/>
+        <file id="12" name="electric/front/wheelback.png" width="7" height="33" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="1" name="electric/side">
+        <file id="0" name="electric/side/side_referance.png" width="138" height="282" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="electric/side/body.png" width="25" height="123" pivot_x="0" pivot_y="1"/>
+        <file id="2" name="electric/side/chest.png" width="50" height="60" pivot_x="0" pivot_y="1"/>
+        <file id="3" name="electric/side/backwheel.png" width="26" height="32" pivot_x="0" pivot_y="1"/>
+        <file id="4" name="electric/side/backleg.png" width="38" height="58" pivot_x="0" pivot_y="1"/>
+        <file id="5" name="electric/side/head.png" width="43" height="72" pivot_x="0" pivot_y="1"/>
+        <file id="6" name="electric/side/legs.png" width="55" height="82" pivot_x="0" pivot_y="1"/>
+        <file id="7" name="electric/side/upperarm1.png" width="29" height="63" pivot_x="0" pivot_y="1"/>
+        <file id="8" name="electric/side/upperarm2.png" width="33" height="68" pivot_x="0" pivot_y="1"/>
+        <file id="9" name="electric/side/wheel.png" width="33" height="33" pivot_x="0" pivot_y="1"/>
+        <file id="10" name="electric/side/arm1.png" width="64" height="32" pivot_x="0" pivot_y="1"/>
+        <file id="11" name="electric/side/arm2.png" width="59" height="26" pivot_x="0" pivot_y="1"/>
+        <file id="12" name="electric/side/neck.png" width="11" height="23" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <entity id="0" name="electric">
+        <obj_info name="electric_chest" realname="chest" type="sprite">
+            <frames>
+                <i folder="0" file="0"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_body" realname="body" type="sprite">
+            <frames>
+                <i folder="0" file="2"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_arm2" realname="arm2" type="sprite">
+            <frames>
+                <i folder="0" file="3"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_arm1" realname="arm1" type="sprite">
+            <frames>
+                <i folder="0" file="4"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_head" realname="head" type="sprite">
+            <frames>
+                <i folder="0" file="5"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_legs" realname="legs" type="sprite">
+            <frames>
+                <i folder="0" file="6"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_neck" realname="neck" type="sprite">
+            <frames>
+                <i folder="0" file="7"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_upperarm1" realname="upperarm1" type="sprite">
+            <frames>
+                <i folder="0" file="8"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_upperarm2" realname="upperarm2" type="sprite">
+            <frames>
+                <i folder="0" file="9"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_wheel1" realname="wheel1" type="sprite">
+            <frames>
+                <i folder="0" file="10"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_wheel2" realname="wheel2" type="sprite">
+            <frames>
+                <i folder="0" file="11"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_wheelback" realname="wheelback" type="sprite">
+            <frames>
+                <i folder="0" file="12"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_body_bone" realname="body_bone" type="bone" w="100.036" h="10"/>
+        <obj_info name="electric_upperarm2_bone" realname="upperarm2_bone" type="bone" w="48.6118" h="10"/>
+        <obj_info name="electric_arm2_bone" realname="arm2_bone" type="bone" w="38.6667" h="10"/>
+        <obj_info name="electric_upperarm1_bone" realname="upperarm1_bone" type="bone" w="43.4307" h="10"/>
+        <obj_info name="electric_arm1_bone" realname="arm1_bone" type="bone" w="36.3012" h="10"/>
+        <obj_info name="electric_neck_bone" realname="neck_bone" type="bone" w="26.0342" h="10"/>
+        <obj_info name="electric_head_bone" realname="head_bone" type="bone" w="42.6719" h="10"/>
+        <obj_info name="electric_legs_bone" realname="legs_bone" type="bone" w="62.0143" h="10"/>
+        <obj_info name="electric_side_referance" realname="side_referance" type="sprite">
+            <frames/>
+        </obj_info>
+        <obj_info name="electric_body_000" realname="body_000" type="sprite">
+            <frames>
+                <i folder="1" file="1"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_chest_000" realname="chest_000" type="sprite">
+            <frames>
+                <i folder="1" file="2"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_backwheel" realname="backwheel" type="sprite">
+            <frames>
+                <i folder="1" file="3"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_backleg" realname="backleg" type="sprite">
+            <frames>
+                <i folder="1" file="4"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_head_000" realname="head_000" type="sprite">
+            <frames>
+                <i folder="1" file="5"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_legs_000" realname="legs_000" type="sprite">
+            <frames>
+                <i folder="1" file="6"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_upperarm1_000" realname="upperarm1_000" type="sprite">
+            <frames>
+                <i folder="1" file="7"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_upperarm2_000" realname="upperarm2_000" type="sprite">
+            <frames>
+                <i folder="1" file="8"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_wheel1_000" realname="wheel1_000" type="sprite">
+            <frames>
+                <i folder="1" file="9"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_wheel2_000" realname="wheel2_000" type="sprite">
+            <frames>
+                <i folder="1" file="9"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_arm1_000" realname="arm1_000" type="sprite">
+            <frames>
+                <i folder="1" file="10"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_arm2_000" realname="arm2_000" type="sprite">
+            <frames>
+                <i folder="1" file="11"/>
+            </frames>
+        </obj_info>
+        <obj_info name="electric_neck_000" realname="neck_000" type="sprite">
+            <frames>
+                <i folder="1" file="12"/>
+            </frames>
+        </obj_info>
+        <animation id="0" name="BASE_SIDE" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="body_000" folder="1" file="1" abs_x="-15.333333" abs_y="174" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                    <object_ref id="1" name="backwheel" folder="1" file="3" abs_x="-50" abs_y="22.666667" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="1"/>
+                    <object_ref id="2" name="backleg" folder="1" file="4" abs_x="-40" abs_y="62" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="3" key="0" z_index="2"/>
+                    <object_ref id="3" name="legs_000" folder="1" file="6" abs_x="-7.333333" abs_y="72" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="3"/>
+                    <object_ref id="4" name="wheel1_000" folder="1" file="9" abs_x="-6.666667" abs_y="12" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="8" key="0" z_index="4"/>
+                    <object_ref id="5" name="wheel2_000" folder="1" file="9" abs_x="27.333333" abs_y="19.333333" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="9" key="0" z_index="5"/>
+                    <object_ref id="6" name="arm1_000" folder="1" file="10" abs_x="-34.666667" abs_y="119.333333" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="10" key="0" z_index="6"/>
+                    <object_ref id="7" name="arm2_000" folder="1" file="11" abs_x="28.666667" abs_y="139.333333" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="11" key="0" z_index="7"/>
+                    <object_ref id="8" name="upperarm1_000" folder="1" file="7" abs_x="-42" abs_y="170" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="6" key="0" z_index="8"/>
+                    <object_ref id="9" name="upperarm2_000" folder="1" file="8" abs_x="1.333333" abs_y="178" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="7" key="0" z_index="9"/>
+                    <object_ref id="10" name="neck_000" folder="1" file="12" abs_x="-4" abs_y="195.333333" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="12" key="0" z_index="10"/>
+                    <object_ref id="11" name="head_000" folder="1" file="5" abs_x="-23.333333" abs_y="262" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="11"/>
+                    <object_ref id="12" name="chest_000" folder="1" file="2" abs_x="-32" abs_y="189.333333" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="12"/>
+                </key>
+            </mainline>
+            <timeline id="0" obj="21" name="body_000">
+                <key id="0" spin="0">
+                    <object folder="1" file="1" x="-15.333333" y="174"/>
+                </key>
+            </timeline>
+            <timeline id="1" obj="22" name="chest_000">
+                <key id="0" spin="0">
+                    <object folder="1" file="2" x="-32" y="189.333333"/>
+                </key>
+            </timeline>
+            <timeline id="2" obj="23" name="backwheel">
+                <key id="0" spin="0">
+                    <object folder="1" file="3" x="-50" y="22.666667"/>
+                </key>
+            </timeline>
+            <timeline id="3" obj="24" name="backleg">
+                <key id="0" spin="0">
+                    <object folder="1" file="4" x="-40" y="62"/>
+                </key>
+            </timeline>
+            <timeline id="4" obj="25" name="head_000">
+                <key id="0" spin="0">
+                    <object folder="1" file="5" x="-23.333333" y="262"/>
+                </key>
+            </timeline>
+            <timeline id="5" obj="26" name="legs_000">
+                <key id="0" spin="0">
+                    <object folder="1" file="6" x="-7.333333" y="72"/>
+                </key>
+            </timeline>
+            <timeline id="6" obj="27" name="upperarm1_000">
+                <key id="0" spin="0">
+                    <object folder="1" file="7" x="-42" y="170"/>
+                </key>
+            </timeline>
+            <timeline id="7" obj="28" name="upperarm2_000">
+                <key id="0" spin="0">
+                    <object folder="1" file="8" x="1.333333" y="178"/>
+                </key>
+            </timeline>
+            <timeline id="8" obj="29" name="wheel1_000">
+                <key id="0" spin="0">
+                    <object folder="1" file="9" x="-6.666667" y="12"/>
+                </key>
+            </timeline>
+            <timeline id="9" obj="30" name="wheel2_000">
+                <key id="0" spin="0">
+                    <object folder="1" file="9" x="27.333333" y="19.333333"/>
+                </key>
+            </timeline>
+            <timeline id="10" obj="31" name="arm1_000">
+                <key id="0" spin="0">
+                    <object folder="1" file="10" x="-34.666667" y="119.333333"/>
+                </key>
+            </timeline>
+            <timeline id="11" obj="32" name="arm2_000">
+                <key id="0" spin="0">
+                    <object folder="1" file="11" x="28.666667" y="139.333333"/>
+                </key>
+            </timeline>
+            <timeline id="12" obj="33" name="neck_000">
+                <key id="0" spin="0">
+                    <object folder="1" file="12" x="-4" y="195.333333"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="1" name="BASE_FRONT" length="1000">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="12" key="0"/>
+                    <bone_ref id="1" parent="0" timeline="13" key="0"/>
+                    <bone_ref id="2" parent="1" timeline="14" key="0"/>
+                    <bone_ref id="3" parent="0" timeline="15" key="0"/>
+                    <bone_ref id="4" parent="3" timeline="16" key="0"/>
+                    <bone_ref id="5" parent="0" timeline="17" key="0"/>
+                    <bone_ref id="6" parent="5" timeline="18" key="0"/>
+                    <bone_ref id="7" timeline="19" key="0"/>
+                    <object_ref id="0" parent="2" name="arm2" folder="0" file="3" abs_x="28" abs_y="133" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="0"/>
+                    <object_ref id="1" parent="4" name="arm1" folder="0" file="4" abs_x="-64" abs_y="132" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="3" key="0" z_index="1"/>
+                    <object_ref id="2" parent="5" name="neck" folder="0" file="7" abs_x="-7.692308" abs_y="196.153846" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="6" key="0" z_index="2"/>
+                    <object_ref id="3" parent="6" name="head" folder="0" file="5" abs_x="-21.634615" abs_y="264.903846" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="4" key="0" z_index="3"/>
+                    <object_ref id="4" parent="3" name="upperarm1" folder="0" file="8" abs_x="-36.057692" abs_y="175" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="7" key="0" z_index="4"/>
+                    <object_ref id="5" parent="1" name="upperarm2" folder="0" file="9" abs_x="5.288462" abs_y="170.673077" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="8" key="0" z_index="5"/>
+                    <object_ref id="6" parent="7" name="wheel1" folder="0" file="10" abs_x="-41.346154" abs_y="15.865385" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="9" key="0" z_index="6"/>
+                    <object_ref id="7" parent="7" name="wheel2" folder="0" file="11" abs_x="35.576923" abs_y="15.384615" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="10" key="0" z_index="7"/>
+                    <object_ref id="8" name="wheelback" folder="0" file="12" abs_x="-6.730769" abs_y="40.384615" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="11" key="0" z_index="8"/>
+                    <object_ref id="9" parent="0" name="body" folder="0" file="2" abs_x="-9" abs_y="173" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="9"/>
+                    <object_ref id="10" parent="0" name="chest" folder="0" file="0" abs_x="-30" abs_y="184" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="10"/>
+                    <object_ref id="11" parent="7" name="legs" folder="0" file="6" abs_x="-34.134615" abs_y="76.923077" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="5" key="0" z_index="11"/>
+                </key>
+            </mainline>
+            <timeline id="0" obj="0" name="chest">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="99.396364" y="-0.41078" pivot_x="0.521045" pivot_y="0.698521" angle="268.472475"/>
+                </key>
+            </timeline>
+            <timeline id="1" obj="1" name="body">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="6.74061" y="0.089577" pivot_x="0.474359" pivot_y="0.065455" angle="268.472475"/>
+                </key>
+            </timeline>
+            <timeline id="2" obj="2" name="arm2">
+                <key id="0" spin="0">
+                    <object folder="0" file="3" x="-1.022521" y="-0.14032" pivot_x="0.076029" pivot_y="0.888378" angle="46.397181" scale_x="1"/>
+                </key>
+            </timeline>
+            <timeline id="3" obj="3" name="arm1">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="-1.170092" y="-0.447044" pivot_x="0.864948" pivot_y="0.844017" angle="135.744059" scale_x="1"/>
+                </key>
+            </timeline>
+            <timeline id="4" obj="4" name="head">
+                <key id="0" spin="0">
+                    <object folder="0" file="5" x="-4.174275" y="-0.831618" pivot_x="0.469863" pivot_y="0.053553" angle="270.895174"/>
+                </key>
+            </timeline>
+            <timeline id="5" obj="5" name="legs">
+                <key id="0" spin="0">
+                    <object folder="0" file="6" x="-5.654392" y="0.088979" pivot_x="0.42328" pivot_y="0.832112" angle="88.806511" scale_x="1"/>
+                </key>
+            </timeline>
+            <timeline id="6" obj="6" name="neck">
+                <key id="0" spin="0">
+                    <object folder="0" file="7" x="3.075496" y="-0.602523" pivot_x="0.511377" pivot_y="0.195622" angle="267.064327" scale_x="1"/>
+                </key>
+            </timeline>
+            <timeline id="7" obj="7" name="upperarm1">
+                <key id="0" spin="0">
+                    <object folder="0" file="8" x="3.021328" y="2.049047" pivot_x="0.791563" pivot_y="0.799359" angle="107.878697" scale_x="1"/>
+                </key>
+            </timeline>
+            <timeline id="8" obj="8" name="upperarm2">
+                <key id="0" spin="0">
+                    <object folder="0" file="9" x="7.312146" y="-2.938743" pivot_x="0.147436" pivot_y="0.899855" angle="64.840698" scale_x="1"/>
+                </key>
+            </timeline>
+            <timeline id="9" obj="9" name="wheel1">
+                <key id="0" spin="0">
+                    <object folder="0" file="10" x="56.676032" y="-33.043725" pivot_x="0.551464" pivot_y="0.518665" angle="88.806511" scale_x="1"/>
+                </key>
+            </timeline>
+            <timeline id="10" obj="10" name="wheel2">
+                <key id="0" spin="0">
+                    <object folder="0" file="11" x="58.539164" y="42.317393" pivot_x="0.455245" pivot_y="0.524354" angle="88.806511" scale_x="1"/>
+                </key>
+            </timeline>
+            <timeline id="11" obj="11" name="wheelback">
+                <key id="0" spin="0">
+                    <object folder="0" file="12" x="-1.912467" y="24.130481" pivot_x="0.688329" pivot_y="0.50745"/>
+                </key>
+            </timeline>
+            <timeline id="12" obj="12" name="body_bone" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="-0.666667" y="65.333333" angle="91.527525"/>
+                </key>
+            </timeline>
+            <timeline id="13" obj="13" name="upperarm2_bone" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="107.677277" y="-13.541853" angle="203.631776" scale_x="1"/>
+                </key>
+            </timeline>
+            <timeline id="14" obj="14" name="arm2_bone" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="50.988948" y="0.356566" angle="18.443517"/>
+                </key>
+            </timeline>
+            <timeline id="15" obj="15" name="upperarm1_bone" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="101.634981" y="9.960903" angle="160.593778" scale_x="1"/>
+                </key>
+            </timeline>
+            <timeline id="16" obj="16" name="arm1_bone" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="44.904273" y="-0.225135" angle="332.134637" scale_x="1"/>
+                </key>
+            </timeline>
+            <timeline id="17" obj="17" name="neck_bone" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="105.997874" y="-1.492803" angle="1.408148" scale_x="1"/>
+                </key>
+            </timeline>
+            <timeline id="18" obj="18" name="head_bone" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="28.66319" y="-0.802364" angle="356.169153" scale_x="1"/>
+                </key>
+            </timeline>
+            <timeline id="19" obj="19" name="legs_bone" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="-0.666667" y="57.333333" angle="271.193489" scale_x="1"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

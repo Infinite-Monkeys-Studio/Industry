@@ -1,0 +1,3113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="ElectricAutomaton--Original.svg"
+   inkscape:export-filename="C:\Users\Ross Jones\Pictures\AutomatonsFinished.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3506">
+      <stop
+         style="stop-color:#ffea95;stop-opacity:1;"
+         offset="0"
+         id="stop3508" />
+      <stop
+         style="stop-color:#ffd21e;stop-opacity:1;"
+         offset="1"
+         id="stop3510" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5456"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5458" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5450"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5452" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5444"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5446" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5438"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5440" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5432"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5434" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5426"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5428" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5420"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5422" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5414"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5416" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5408"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5410" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5402"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5404" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5396"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5398" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5390"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5392" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5384"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5386" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5378"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5380" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5372"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5374" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5366"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5368" />
+    </linearGradient>
+    <filter
+       id="filter4420"
+       inkscape:label="Cubes"
+       inkscape:menu="Scatter"
+       inkscape:menu-tooltip="Scattered cubes; adjust the Morphology primitive to vary size"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence4422"
+         baseFrequency="0.14299516908212559"
+         numOctaves="1"
+         type="fractalNoise" />
+      <feColorMatrix
+         id="feColorMatrix4424"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 6 -3.5 "
+         result="result5" />
+      <feComposite
+         id="feComposite4426"
+         in2="result5"
+         operator="in"
+         in="SourceGraphic"
+         result="result6" />
+      <feMorphology
+         id="feMorphology4428"
+         result="result3"
+         radius="5"
+         operator="dilate"
+         in="result6" />
+      <feDisplacementMap
+         id="feDisplacementMap4430"
+         in2="result3"
+         result="result4"
+         scale="0"
+         yChannelSelector="A"
+         xChannelSelector="R"
+         in="result3" />
+      <feComposite
+         id="feComposite4432"
+         in2="result4"
+         operator="arithmetic"
+         result="result2"
+         k1="1"
+         k3="1" />
+      <feBlend
+         id="feBlend4434"
+         in2="result2"
+         mode="darken"
+         in="result2" />
+      <feConvolveMatrix
+         id="feConvolveMatrix4436"
+         order="3 3"
+         kernelMatrix="2 0 0 0 1 0 0 0 -1 "
+         targetX="1"
+         targetY="1"
+         divisor="2"
+         edgeMode="duplicate" />
+    </filter>
+    <filter
+       id="filter5058"
+       inkscape:label="Eroded metal"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5060"
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="1" />
+      <feTurbulence
+         id="feTurbulence5062"
+         type="turbulence"
+         baseFrequency="0.057"
+         seed="4"
+         numOctaves="4"
+         result="result1" />
+      <feDisplacementMap
+         id="feDisplacementMap5064"
+         in2="result1"
+         xChannelSelector="R"
+         result="result91" />
+      <feComposite
+         id="feComposite5066"
+         in2="result91"
+         result="result2"
+         operator="out"
+         in="result0" />
+      <feComposite
+         id="feComposite5068"
+         in2="result2"
+         k1="0.1"
+         k3="1.2"
+         in="SourceAlpha"
+         operator="arithmetic"
+         result="result5" />
+      <feBlend
+         id="feBlend5070"
+         in2="result5"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feGaussianBlur
+         id="feGaussianBlur5072"
+         stdDeviation="3"
+         in="fbSourceGraphic"
+         result="result0" />
+      <feSpecularLighting
+         id="feSpecularLighting5074"
+         in="result0"
+         result="result1"
+         lighting-color="rgb(254,230,93)"
+         surfaceScale="3"
+         specularConstant="0.4"
+         specularExponent="15">
+        <fePointLight
+           id="fePointLight5076"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5078"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite5080"
+         in2="result2"
+         k1="-1"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2.5"
+         k3="3.5" />
+      <feBlend
+         id="feBlend5082"
+         in2="result4"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter5084"
+       inkscape:label="Eroded metal"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5086"
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="1" />
+      <feTurbulence
+         id="feTurbulence5088"
+         type="turbulence"
+         baseFrequency="0.057"
+         seed="4"
+         numOctaves="4"
+         result="result1" />
+      <feDisplacementMap
+         id="feDisplacementMap5090"
+         in2="result1"
+         xChannelSelector="R"
+         result="result91" />
+      <feComposite
+         id="feComposite5092"
+         in2="result91"
+         result="result2"
+         operator="out"
+         in="result0" />
+      <feComposite
+         id="feComposite5094"
+         in2="result2"
+         k1="0.1"
+         k3="1.2"
+         in="SourceAlpha"
+         operator="arithmetic"
+         result="result5" />
+      <feBlend
+         id="feBlend5096"
+         in2="result5"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feGaussianBlur
+         id="feGaussianBlur5098"
+         stdDeviation="3"
+         in="fbSourceGraphic"
+         result="result0" />
+      <feSpecularLighting
+         id="feSpecularLighting5100"
+         in="result0"
+         result="result1"
+         lighting-color="rgb(254,230,93)"
+         surfaceScale="3"
+         specularConstant="0.4"
+         specularExponent="15">
+        <fePointLight
+           id="fePointLight5102"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5104"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite5106"
+         in2="result2"
+         k1="-1"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2.5"
+         k3="3.5" />
+      <feBlend
+         id="feBlend5108"
+         in2="result4"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter5110"
+       inkscape:label="Eroded metal"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5112"
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="1" />
+      <feTurbulence
+         id="feTurbulence5114"
+         type="turbulence"
+         baseFrequency="0.057"
+         seed="4"
+         numOctaves="4"
+         result="result1" />
+      <feDisplacementMap
+         id="feDisplacementMap5116"
+         in2="result1"
+         xChannelSelector="R"
+         result="result91" />
+      <feComposite
+         id="feComposite5118"
+         in2="result91"
+         result="result2"
+         operator="out"
+         in="result0" />
+      <feComposite
+         id="feComposite5120"
+         in2="result2"
+         k1="0.1"
+         k3="1.2"
+         in="SourceAlpha"
+         operator="arithmetic"
+         result="result5" />
+      <feBlend
+         id="feBlend5122"
+         in2="result5"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feGaussianBlur
+         id="feGaussianBlur5124"
+         stdDeviation="3"
+         in="fbSourceGraphic"
+         result="result0" />
+      <feSpecularLighting
+         id="feSpecularLighting5126"
+         in="result0"
+         result="result1"
+         lighting-color="rgb(254,230,93)"
+         surfaceScale="3"
+         specularConstant="0.4"
+         specularExponent="15">
+        <fePointLight
+           id="fePointLight5128"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5130"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite5132"
+         in2="result2"
+         k1="-1"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2.5"
+         k3="3.5" />
+      <feBlend
+         id="feBlend5134"
+         in2="result4"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter5136"
+       inkscape:label="Eroded metal"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5138"
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="1" />
+      <feTurbulence
+         id="feTurbulence5140"
+         type="turbulence"
+         baseFrequency="0.057"
+         seed="4"
+         numOctaves="4"
+         result="result1" />
+      <feDisplacementMap
+         id="feDisplacementMap5142"
+         in2="result1"
+         xChannelSelector="R"
+         result="result91" />
+      <feComposite
+         id="feComposite5144"
+         in2="result91"
+         result="result2"
+         operator="out"
+         in="result0" />
+      <feComposite
+         id="feComposite5146"
+         in2="result2"
+         k1="0.1"
+         k3="1.2"
+         in="SourceAlpha"
+         operator="arithmetic"
+         result="result5" />
+      <feBlend
+         id="feBlend5148"
+         in2="result5"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feGaussianBlur
+         id="feGaussianBlur5150"
+         stdDeviation="3"
+         in="fbSourceGraphic"
+         result="result0" />
+      <feSpecularLighting
+         id="feSpecularLighting5152"
+         in="result0"
+         result="result1"
+         lighting-color="rgb(254,230,93)"
+         surfaceScale="3"
+         specularConstant="0.4"
+         specularExponent="15">
+        <fePointLight
+           id="fePointLight5154"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5156"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite5158"
+         in2="result2"
+         k1="-1"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2.5"
+         k3="3.5" />
+      <feBlend
+         id="feBlend5160"
+         in2="result4"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter5162"
+       inkscape:label="Eroded metal"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5164"
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="1" />
+      <feTurbulence
+         id="feTurbulence5166"
+         type="turbulence"
+         baseFrequency="0.057"
+         seed="4"
+         numOctaves="4"
+         result="result1" />
+      <feDisplacementMap
+         id="feDisplacementMap5168"
+         in2="result1"
+         xChannelSelector="R"
+         result="result91" />
+      <feComposite
+         id="feComposite5170"
+         in2="result91"
+         result="result2"
+         operator="out"
+         in="result0" />
+      <feComposite
+         id="feComposite5172"
+         in2="result2"
+         k1="0.1"
+         k3="1.2"
+         in="SourceAlpha"
+         operator="arithmetic"
+         result="result5" />
+      <feBlend
+         id="feBlend5174"
+         in2="result5"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feGaussianBlur
+         id="feGaussianBlur5176"
+         stdDeviation="3"
+         in="fbSourceGraphic"
+         result="result0" />
+      <feSpecularLighting
+         id="feSpecularLighting5178"
+         in="result0"
+         result="result1"
+         lighting-color="rgb(254,230,93)"
+         surfaceScale="3"
+         specularConstant="0.4"
+         specularExponent="15">
+        <fePointLight
+           id="fePointLight5180"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5182"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite5184"
+         in2="result2"
+         k1="-1"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2.5"
+         k3="3.5" />
+      <feBlend
+         id="feBlend5186"
+         in2="result4"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter5314"
+       inkscape:label="Air spray"
+       inkscape:menu="Scatter"
+       inkscape:menu-tooltip="Convert to small scattered particles with some thickness"
+       width="2"
+       height="2"
+       y="-0.5"
+       x="-0.5"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5316"
+         stdDeviation="0.01"
+         result="result1" />
+      <feBlend
+         id="feBlend5318"
+         in2="result1"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feTurbulence
+         id="feTurbulence5320"
+         baseFrequency="0.8"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="3"
+         result="result3" />
+      <feDisplacementMap
+         id="feDisplacementMap5322"
+         in2="result3"
+         in="fbSourceGraphic"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="50"
+         result="result2" />
+      <feMorphology
+         id="feMorphology5324"
+         radius="1"
+         operator="dilate"
+         result="result4" />
+      <feBlend
+         id="feBlend5326"
+         in2="result2"
+         mode="screen" />
+    </filter>
+    <filter
+       id="filter3323"
+       inkscape:label="Cubes"
+       inkscape:menu="Scatter"
+       inkscape:menu-tooltip="Scattered cubes; adjust the Morphology primitive to vary size"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence3325"
+         baseFrequency="0.14299516908212559"
+         numOctaves="1"
+         type="fractalNoise" />
+      <feColorMatrix
+         id="feColorMatrix3327"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 6 -3.5 "
+         result="result5" />
+      <feComposite
+         id="feComposite3329"
+         in2="result5"
+         operator="in"
+         in="SourceGraphic"
+         result="result6" />
+      <feMorphology
+         id="feMorphology3331"
+         result="result3"
+         radius="5"
+         operator="dilate"
+         in="result6" />
+      <feDisplacementMap
+         id="feDisplacementMap3333"
+         in2="result3"
+         result="result4"
+         scale="0"
+         yChannelSelector="A"
+         xChannelSelector="R"
+         in="result3" />
+      <feComposite
+         id="feComposite3335"
+         in2="result4"
+         operator="arithmetic"
+         result="result2"
+         k1="1"
+         k3="1" />
+      <feBlend
+         id="feBlend3337"
+         in2="result2"
+         mode="darken"
+         in="result2" />
+      <feConvolveMatrix
+         id="feConvolveMatrix3339"
+         order="3 3"
+         kernelMatrix="2 0 0 0 1 0 0 0 -1 "
+         targetX="1"
+         targetY="1"
+         divisor="2"
+         edgeMode="duplicate" />
+    </filter>
+    <filter
+       id="filter4521"
+       inkscape:menu-tooltip="Pressed metal with a rolled edge"
+       inkscape:menu="Bevels"
+       inkscape:label="Pressed steel"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4523"
+         result="result1"
+         stdDeviation="3" />
+      <feBlend
+         id="feBlend4525"
+         in2="result1"
+         result="result5"
+         mode="multiply"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur4527"
+         in="result5"
+         result="result6"
+         stdDeviation="1" />
+      <feComposite
+         id="feComposite4529"
+         in2="result5"
+         result="result8"
+         in="result6"
+         operator="xor" />
+      <feComposite
+         id="feComposite4531"
+         in2="result8"
+         in="result6"
+         result="fbSourceGraphic"
+         operator="xor" />
+      <feSpecularLighting
+         id="feSpecularLighting4533"
+         in="fbSourceGraphic"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="2"
+         specularConstant="2.2"
+         specularExponent="55">
+        <fePointLight
+           id="fePointLight4535"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite4537"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite4539"
+         in2="result2"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2"
+         k3="1" />
+      <feComposite
+         id="feComposite4541"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result91" />
+      <feBlend
+         id="feBlend4543"
+         in2="result91"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter4545"
+       inkscape:menu-tooltip="Pressed metal with a rolled edge"
+       inkscape:menu="Bevels"
+       inkscape:label="Pressed steel"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4547"
+         result="result1"
+         stdDeviation="3" />
+      <feBlend
+         id="feBlend4549"
+         in2="result1"
+         result="result5"
+         mode="multiply"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur4551"
+         in="result5"
+         result="result6"
+         stdDeviation="1" />
+      <feComposite
+         id="feComposite4553"
+         in2="result5"
+         result="result8"
+         in="result6"
+         operator="xor" />
+      <feComposite
+         id="feComposite4555"
+         in2="result8"
+         in="result6"
+         result="fbSourceGraphic"
+         operator="xor" />
+      <feSpecularLighting
+         id="feSpecularLighting4557"
+         in="fbSourceGraphic"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="2"
+         specularConstant="2.2"
+         specularExponent="55">
+        <fePointLight
+           id="fePointLight4559"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite4561"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite4563"
+         in2="result2"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2"
+         k3="1" />
+      <feComposite
+         id="feComposite4565"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result91" />
+      <feBlend
+         id="feBlend4567"
+         in2="result91"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter4569"
+       inkscape:menu-tooltip="Pressed metal with a rolled edge"
+       inkscape:menu="Bevels"
+       inkscape:label="Pressed steel"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4571"
+         result="result1"
+         stdDeviation="3" />
+      <feBlend
+         id="feBlend4573"
+         in2="result1"
+         result="result5"
+         mode="multiply"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur4575"
+         in="result5"
+         result="result6"
+         stdDeviation="1" />
+      <feComposite
+         id="feComposite4577"
+         in2="result5"
+         result="result8"
+         in="result6"
+         operator="xor" />
+      <feComposite
+         id="feComposite4579"
+         in2="result8"
+         in="result6"
+         result="fbSourceGraphic"
+         operator="xor" />
+      <feSpecularLighting
+         id="feSpecularLighting4581"
+         in="fbSourceGraphic"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="2"
+         specularConstant="2.2"
+         specularExponent="55">
+        <fePointLight
+           id="fePointLight4583"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite4585"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite4587"
+         in2="result2"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2"
+         k3="1" />
+      <feComposite
+         id="feComposite4589"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result91" />
+      <feBlend
+         id="feBlend4591"
+         in2="result91"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter4593"
+       inkscape:menu-tooltip="Pressed metal with a rolled edge"
+       inkscape:menu="Bevels"
+       inkscape:label="Pressed steel"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4595"
+         result="result1"
+         stdDeviation="3" />
+      <feBlend
+         id="feBlend4597"
+         in2="result1"
+         result="result5"
+         mode="multiply"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur4599"
+         in="result5"
+         result="result6"
+         stdDeviation="1" />
+      <feComposite
+         id="feComposite4601"
+         in2="result5"
+         result="result8"
+         in="result6"
+         operator="xor" />
+      <feComposite
+         id="feComposite4603"
+         in2="result8"
+         in="result6"
+         result="fbSourceGraphic"
+         operator="xor" />
+      <feSpecularLighting
+         id="feSpecularLighting4605"
+         in="fbSourceGraphic"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="2"
+         specularConstant="2.2"
+         specularExponent="55">
+        <fePointLight
+           id="fePointLight4607"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite4609"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite4611"
+         in2="result2"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2"
+         k3="1" />
+      <feComposite
+         id="feComposite4613"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result91" />
+      <feBlend
+         id="feBlend4615"
+         in2="result91"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter4617"
+       inkscape:menu-tooltip="Pressed metal with a rolled edge"
+       inkscape:menu="Bevels"
+       inkscape:label="Pressed steel"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4619"
+         result="result1"
+         stdDeviation="3" />
+      <feBlend
+         id="feBlend4621"
+         in2="result1"
+         result="result5"
+         mode="multiply"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur4623"
+         in="result5"
+         result="result6"
+         stdDeviation="1" />
+      <feComposite
+         id="feComposite4625"
+         in2="result5"
+         result="result8"
+         in="result6"
+         operator="xor" />
+      <feComposite
+         id="feComposite4627"
+         in2="result8"
+         in="result6"
+         result="fbSourceGraphic"
+         operator="xor" />
+      <feSpecularLighting
+         id="feSpecularLighting4629"
+         in="fbSourceGraphic"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="2"
+         specularConstant="2.2"
+         specularExponent="55">
+        <fePointLight
+           id="fePointLight4631"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite4633"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite4635"
+         in2="result2"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2"
+         k3="1" />
+      <feComposite
+         id="feComposite4637"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result91" />
+      <feBlend
+         id="feBlend4639"
+         in2="result91"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter4781"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Marbled transparency effect which conforms to image detected edges"
+       inkscape:menu="Image effects, transparent"
+       inkscape:label="Marbled ink"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4783"
+         result="result9"
+         in="SourceGraphic"
+         stdDeviation="2" />
+      <feTurbulence
+         id="feTurbulence4785"
+         baseFrequency="0.06"
+         numOctaves="10"
+         type="fractalNoise"
+         result="result7"
+         seed="0" />
+      <feColorMatrix
+         id="feColorMatrix4787"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.5 -0.3 "
+         result="result5" />
+      <feComposite
+         id="feComposite4789"
+         in2="result5"
+         in="result9"
+         operator="out"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur4791"
+         result="result10"
+         stdDeviation="0.5" />
+      <feDisplacementMap
+         id="feDisplacementMap4793"
+         in2="result10"
+         result="result4"
+         scale="120"
+         yChannelSelector="G"
+         xChannelSelector="A"
+         in="result5" />
+      <feComposite
+         id="feComposite4795"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result2" />
+      <feComposite
+         id="feComposite4797"
+         in2="SourceGraphic"
+         operator="in"
+         in="result2"
+         result="fbSourceGraphic" />
+      <feBlend
+         id="feBlend4799"
+         in2="result2"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter4801"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Marbled transparency effect which conforms to image detected edges"
+       inkscape:menu="Image effects, transparent"
+       inkscape:label="Marbled ink"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4803"
+         result="result9"
+         in="SourceGraphic"
+         stdDeviation="2" />
+      <feTurbulence
+         id="feTurbulence4805"
+         baseFrequency="0.06"
+         numOctaves="10"
+         type="fractalNoise"
+         result="result7"
+         seed="0" />
+      <feColorMatrix
+         id="feColorMatrix4807"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.5 -0.3 "
+         result="result5" />
+      <feComposite
+         id="feComposite4809"
+         in2="result5"
+         in="result9"
+         operator="out"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur4811"
+         result="result10"
+         stdDeviation="0.5" />
+      <feDisplacementMap
+         id="feDisplacementMap4813"
+         in2="result10"
+         result="result4"
+         scale="120"
+         yChannelSelector="G"
+         xChannelSelector="A"
+         in="result5" />
+      <feComposite
+         id="feComposite4815"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result2" />
+      <feComposite
+         id="feComposite4817"
+         in2="SourceGraphic"
+         operator="in"
+         in="result2"
+         result="fbSourceGraphic" />
+      <feBlend
+         id="feBlend4819"
+         in2="result2"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter4821"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Marbled transparency effect which conforms to image detected edges"
+       inkscape:menu="Image effects, transparent"
+       inkscape:label="Marbled ink"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4823"
+         result="result9"
+         in="SourceGraphic"
+         stdDeviation="2" />
+      <feTurbulence
+         id="feTurbulence4825"
+         baseFrequency="0.06"
+         numOctaves="10"
+         type="fractalNoise"
+         result="result7"
+         seed="0" />
+      <feColorMatrix
+         id="feColorMatrix4827"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.5 -0.3 "
+         result="result5" />
+      <feComposite
+         id="feComposite4829"
+         in2="result5"
+         in="result9"
+         operator="out"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur4831"
+         result="result10"
+         stdDeviation="0.5" />
+      <feDisplacementMap
+         id="feDisplacementMap4833"
+         in2="result10"
+         result="result4"
+         scale="120"
+         yChannelSelector="G"
+         xChannelSelector="A"
+         in="result5" />
+      <feComposite
+         id="feComposite4835"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result2" />
+      <feComposite
+         id="feComposite4837"
+         in2="SourceGraphic"
+         operator="in"
+         in="result2"
+         result="fbSourceGraphic" />
+      <feBlend
+         id="feBlend4839"
+         in2="result2"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter4841"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Marbled transparency effect which conforms to image detected edges"
+       inkscape:menu="Image effects, transparent"
+       inkscape:label="Marbled ink"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4843"
+         result="result9"
+         in="SourceGraphic"
+         stdDeviation="2" />
+      <feTurbulence
+         id="feTurbulence4845"
+         baseFrequency="0.06"
+         numOctaves="10"
+         type="fractalNoise"
+         result="result7"
+         seed="0" />
+      <feColorMatrix
+         id="feColorMatrix4847"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.5 -0.3 "
+         result="result5" />
+      <feComposite
+         id="feComposite4849"
+         in2="result5"
+         in="result9"
+         operator="out"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur4851"
+         result="result10"
+         stdDeviation="0.5" />
+      <feDisplacementMap
+         id="feDisplacementMap4853"
+         in2="result10"
+         result="result4"
+         scale="120"
+         yChannelSelector="G"
+         xChannelSelector="A"
+         in="result5" />
+      <feComposite
+         id="feComposite4855"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result2" />
+      <feComposite
+         id="feComposite4857"
+         in2="SourceGraphic"
+         operator="in"
+         in="result2"
+         result="fbSourceGraphic" />
+      <feBlend
+         id="feBlend4859"
+         in2="result2"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter4861"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Marbled transparency effect which conforms to image detected edges"
+       inkscape:menu="Image effects, transparent"
+       inkscape:label="Marbled ink"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4863"
+         result="result9"
+         in="SourceGraphic"
+         stdDeviation="2" />
+      <feTurbulence
+         id="feTurbulence4865"
+         baseFrequency="0.06"
+         numOctaves="10"
+         type="fractalNoise"
+         result="result7"
+         seed="0" />
+      <feColorMatrix
+         id="feColorMatrix4867"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.5 -0.3 "
+         result="result5" />
+      <feComposite
+         id="feComposite4869"
+         in2="result5"
+         in="result9"
+         operator="out"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur4871"
+         result="result10"
+         stdDeviation="0.5" />
+      <feDisplacementMap
+         id="feDisplacementMap4873"
+         in2="result10"
+         result="result4"
+         scale="120"
+         yChannelSelector="G"
+         xChannelSelector="A"
+         in="result5" />
+      <feComposite
+         id="feComposite4875"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result2" />
+      <feComposite
+         id="feComposite4877"
+         in2="SourceGraphic"
+         operator="in"
+         in="result2"
+         result="fbSourceGraphic" />
+      <feBlend
+         id="feBlend4879"
+         in2="result2"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter5009"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5011"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite5013"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter5015"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5017"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite5019"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter5021"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5023"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite5025"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter5027"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5029"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite5031"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter5033"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5035"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite5037"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter5039"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5041"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite5043"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter4382"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4384"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite4386"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter4388"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4390"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite4392"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter4394"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4396"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite4398"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4189731"
+     inkscape:cx="398.19369"
+     inkscape:cy="326.03998"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     transform="translate(0,-308.2677)"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Ground"
+     style="display:none"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer"
+     style="display:inline"
+     transform="translate(0,-308.2677)">
+    <g
+       id="g3482"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\g3493.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path3476"
+         d="m 679.63959,706.9586 46.01978,-6.80796 -2.75853,-10.3879 -43.03561,8.4102"
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(1.8862288,0.06494629,-0.06494629,1.8862288,337.88217,342.71526)"
+         d="m 217.67857,179.05861 a 5.8035712,5.8035712 0 1 1 -11.60714,0 5.8035712,5.8035712 0 1 1 11.60714,0 z"
+         sodipodi:ry="5.8035712"
+         sodipodi:rx="5.8035712"
+         sodipodi:cy="179.05861"
+         sodipodi:cx="211.875"
+         id="path3333"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3415">
+      <path
+         id="path3538"
+         d="m 371.97593,690.46576 23.66386,24.00978 -3.02463,10.81724 -25.74731,-28.15795"
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         transform="matrix(-1.277485,1.3892838,1.3892838,1.277485,418.27947,199.04319)"
+         sodipodi:type="arc"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         id="path3542"
+         sodipodi:cx="211.875"
+         sodipodi:cy="179.05861"
+         sodipodi:rx="5.8035712"
+         sodipodi:ry="5.8035712"
+         d="m 217.67857,179.05861 a 5.8035712,5.8035712 0 1 1 -11.60714,0 5.8035712,5.8035712 0 1 1 11.60714,0 z" />
+    </g>
+    <g
+       id="g3411">
+      <path
+         id="path3403"
+         d="m 366.86785,697.13483 -21.85071,-37.12398 7.37947,-6.75986 19.57932,37.21477"
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         transform="matrix(-1.277485,1.3892838,1.3892838,1.277485,355.68148,212.22925)"
+         sodipodi:type="arc"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         id="path3540"
+         sodipodi:cx="183.125"
+         sodipodi:cy="178.70146"
+         sodipodi:rx="4.5535712"
+         sodipodi:ry="4.5535712"
+         d="m 187.67857,178.70146 a 4.5535712,4.5535712 0 1 1 -9.10714,0 4.5535712,4.5535712 0 1 1 9.10714,0 z" />
+    </g>
+    <g
+       id="g3397">
+      <path
+         id="path3391"
+         d="m 310.19583,691.92325 -22.78294,23.30504 2.50491,10.82607 26.62823,-28.33413"
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         d="m 217.67857,179.05861 a 5.8035712,5.8035712 0 1 1 -11.60714,0 5.8035712,5.8035712 0 1 1 11.60714,0 z"
+         sodipodi:ry="5.8035712"
+         sodipodi:rx="5.8035712"
+         sodipodi:cy="179.05861"
+         sodipodi:cx="211.875"
+         id="path3601"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         sodipodi:type="arc"
+         transform="matrix(1.277485,1.3892838,-1.3892838,1.277485,264.77321,199.79594)" />
+    </g>
+    <path
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 643.79205,625.00264 -0.87148,20.89972 9.05591,-0.71494 -2.46489,-20.18478 z"
+       id="path3353"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\g3493.png" />
+    <g
+       id="g3478"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\g3493.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path3647"
+         d="m 673.97761,692.90916 -12.69567,-48.53607 -8.67274,5.58135 16.20685,52.56316"
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(1.8862288,0.06494629,-0.06494629,1.8862288,340.90368,352.75013)"
+         d="m 187.67857,178.70146 a 4.5535712,4.5535712 0 1 1 -9.10714,0 4.5535712,4.5535712 0 1 1 9.10714,0 z"
+         sodipodi:ry="4.5535712"
+         sodipodi:rx="4.5535712"
+         sodipodi:cy="178.70146"
+         sodipodi:cx="183.125"
+         id="path3331"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g4519"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\g3493.png">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3147"
+         d="m 643.4096,751.21305 16.85134,74.81982 4.04429,-4.04432 -14.82914,-72.79765 z"
+         style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         id="g4465">
+        <path
+           d="m 153.54318,258.12976 c 0,4.53287 -3.67462,8.20749 -8.20749,8.20749 -4.53287,0 -8.20749,-3.67462 -8.20749,-8.20749 0,-4.53287 3.67462,-8.20749 8.20749,-8.20749 4.53287,0 8.20749,3.67462 8.20749,8.20749 z"
+           sodipodi:ry="8.207489"
+           sodipodi:rx="8.207489"
+           sodipodi:cy="258.12976"
+           sodipodi:cx="145.33569"
+           id="path3163"
+           style="fill:none;stroke:#000000"
+           sodipodi:type="arc"
+           transform="matrix(1.6905983,0.83902,-0.83902,1.6905983,665.56057,258.7752)" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3165"
+           d="m 690.91267,801.66598 7.86699,29.17884"
+           style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3167"
+           d="m 680.74538,823.22488 27.77938,-12.55221"
+           style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3169"
+           d="m 681.23864,809.90124 27.00319,13.13524"
+           style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3171"
+           d="M 701.68263,803.55233 687.90696,830.2377"
+           style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:transform-center-y="5.9553203"
+           inkscape:transform-center-x="6.3750387"
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 646.12338,764.96638 -33.2198,51.75161 -2.44129,-5.17233 30.63364,-50.53099 z"
+           id="path3151"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3149"
+           d="m 646.44618,758.53681 45.64251,61.63386 3.16254,-6.83782 -0.0234,-0.0313 -44.0493,-59.06539 z"
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="-6.740524"
+           inkscape:transform-center-y="5.392422"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 659.75905,821.84959 0,7.62603 35.50873,-7.62603 0.2383,-8.34098 z"
+           id="path3193"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#000000"
+           id="path3153"
+           sodipodi:cx="145.33569"
+           sodipodi:cy="258.12976"
+           sodipodi:rx="8.207489"
+           sodipodi:ry="8.207489"
+           d="m 153.54318,258.12976 c 0,4.53287 -3.67462,8.20749 -8.20749,8.20749 -4.53287,0 -8.20749,-3.67462 -8.20749,-8.20749 0,-4.53287 3.67462,-8.20749 8.20749,-8.20749 4.53287,0 8.20749,3.67462 8.20749,8.20749 z"
+           transform="matrix(1.3208799,0.49037187,-0.66216744,1.7836334,591.25903,281.65897)" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.63727641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 609.39726,799.18775 6.067,26.59686"
+           id="path3155"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.63727641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 601.36971,821.83334 21.78721,-17.28112"
+           id="path3157"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.63727641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 601.79782,808.92312 21.09867,7.57654"
+           id="path3159"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.63727641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 617.82281,798.98434 -10.86859,28.25358"
+           id="path3161"
+           inkscape:connector-curvature="0" />
+        <path
+           transform="matrix(1.8681807,0.26828668,-0.26828668,1.8681807,457.64681,303.99639)"
+           d="m 153.54318,258.12976 c 0,4.53287 -3.67462,8.20749 -8.20749,8.20749 -4.53287,0 -8.20749,-3.67462 -8.20749,-8.20749 0,-4.53287 3.67462,-8.20749 8.20749,-8.20749 4.53287,0 8.20749,3.67462 8.20749,8.20749 z"
+           sodipodi:ry="8.207489"
+           sodipodi:rx="8.207489"
+           sodipodi:cy="258.12976"
+           sodipodi:cx="145.33569"
+           id="path3183"
+           style="fill:none;stroke:#000000"
+           sodipodi:type="arc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3185"
+           d="m 651.49164,811.73382 16.5968,25.2555"
+           style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3187"
+           d="m 648.57579,835.3909 22.46114,-20.60944"
+           style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3189"
+           d="m 644.87794,822.58119 29.75646,4.03253"
+           style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3191"
+           d="m 662.31136,810.15776 -4.74021,29.65482"
+           style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g4505"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\g3493.png">
+      <path
+         sodipodi:nodetypes="zsz"
+         inkscape:connector-curvature="0"
+         id="path3325"
+         d="m 648.128,587.75534 c -32.50672,4.71378 -16.57887,13.96084 2.0084,13.03761 19.68334,-0.97766 30.49831,-17.75138 -2.0084,-13.03761 z"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path3327"
+         d="m 629.69335,596.72166 4.61655,29.79171 c 10.2208,3.1274 23.9126,8.80684 33.57827,-7.6621 l 0.71471,-26.64669 c -7.80192,9.33274 -30.1363,10.33981 -38.90956,4.51708 z"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="zzzz"
+         inkscape:connector-curvature="0"
+         id="path3343"
+         d="m 651.25421,604.96891 c -2.05732,-1.50828 -3.38844,-1.59399 -5.01324,-0.58977 -1.6248,1.00421 -2.15505,6.28225 1.64299,7.11967 3.79805,0.83743 5.4276,-5.02161 3.37025,-6.5299 z"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5015)" />
+      <path
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5009)"
+         d="m 664.9457,602.06482 c -2.05733,-1.50826 -3.38844,-1.59399 -5.01325,-0.58977 -1.6248,1.00422 -2.15505,6.28225 1.643,7.11967 3.79803,0.83744 5.42759,-5.02161 3.37025,-6.5299 z"
+         id="path3347"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="zzzz" />
+      <path
+         sodipodi:nodetypes="ccczcc"
+         inkscape:connector-curvature="0"
+         id="path3349"
+         d="m 644.58923,593.82182 c 4.16886,1.55818 8.07611,1.02342 11.79591,-1.01108 l -2.19069,-8.93119 c 7.26835,-11.62506 5.34161,-22.13082 -6.74053,-23.59184 -12.08213,-1.46101 -16.8946,14.2101 -2.86469,24.93995 z"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cssscssscscc"
+         inkscape:connector-curvature="0"
+         id="path3351"
+         d="m 648.75788,594.62023 c 0.0566,-2.55056 -1.13539,-13.09982 -2.02215,-13.98659 -1.1972,-1.1972 -3.14903,-3.06355 -3.95947,-4.68442 -1.12736,-2.25473 3.5727,-6.91624 3.5727,-2.40102 0,0.42773 0.11362,1.40304 -0.16854,1.68512 -1.5561,1.55611 0.76693,-4.6163 2.54718,-3.72616 1.98515,0.99257 1.33906,4.53734 0.53579,3.73407 -0.72136,-0.72137 2.08608,-5.49699 3.03323,-4.54985 0.80548,0.80548 0.78285,1.73422 1.34811,2.86471 0.89466,1.78934 -1.79394,5.16419 -2.69622,6.06648 -0.76179,0.7618 0.472,5.69589 0.84257,6.06648 0.73474,0.73472 1.24776,7.04535 2.19068,8.93118"
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path5328"
+         d="m 644.12473,588.27958 c 3.49014,0.82341 6.78765,2.60996 11.13314,-0.84342 l 1.51815,5.06051 c -3.31012,3.39566 -7.71248,3.51458 -12.81996,1.51816 z"
+         style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3581"
+       d="m 333.34682,625.00264 -1.27068,24.89177 9.72125,-0.0496 -2.73103,-24.84217 z"
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3393">
+      <path
+         id="path3585"
+         d="m 317.25076,696.83931 15.12371,-41.74009 -6.1506,-8.36429 -15.14712,44.48358"
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         d="m 187.67857,178.70146 a 4.5535712,4.5535712 0 1 1 -9.10714,0 4.5535712,4.5535712 0 1 1 9.10714,0 z"
+         sodipodi:ry="4.5535712"
+         sodipodi:rx="4.5535712"
+         sodipodi:cy="178.70146"
+         sodipodi:cx="183.125"
+         id="path3597"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         sodipodi:type="arc"
+         transform="matrix(1.277485,1.3892838,-1.3892838,1.277485,327.3712,212.982)" />
+    </g>
+    <g
+       id="g3427">
+      <g
+         id="g3419">
+        <path
+           sodipodi:nodetypes="zsz"
+           inkscape:connector-curvature="0"
+           id="path3589"
+           d="m 337.68277,587.75534 c -32.50672,4.71378 -16.57887,13.96084 2.0084,13.03761 19.68334,-0.97766 30.49831,-17.75138 -2.0084,-13.03761 z"
+           style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           sodipodi:nodetypes="cccccc"
+           inkscape:connector-curvature="0"
+           id="path3591"
+           d="m 319.24812,596.72166 1.041,29.03896 c 7.96256,5.00927 22.0764,9.86356 38.70498,-3.02983 l -0.46008,-29.77346 c -7.80192,9.33274 -30.51267,9.58706 -39.28593,3.76433 z"
+           style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <g
+         id="g3423">
+        <path
+           sodipodi:nodetypes="zzzz"
+           inkscape:connector-curvature="0"
+           id="path3603"
+           d="m 334.03426,605.72166 c -2.05732,-1.50828 -3.38844,-1.59399 -5.01324,-0.58977 -1.6248,1.00421 -2.15505,6.28225 1.64299,7.11967 3.79805,0.83743 5.4276,-5.02161 3.37025,-6.5299 z"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5015)"
+           inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5009)"
+           d="m 348.85487,605.07581 c -2.05733,-1.50826 -3.38844,-1.59399 -5.01325,-0.58977 -1.6248,1.00422 -2.15505,6.28225 1.643,7.11967 3.79803,0.83744 5.42759,-5.02161 3.37025,-6.5299 z"
+           id="path3605"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="zzzz"
+           inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+    </g>
+    <g
+       id="g3435">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 333.68633,593.46364 c 4.03846,1.87034 7.97504,1.63391 11.83863,-0.11216 l -1.50596,-9.07179 c 8.13037,-11.03938 7.0072,-21.66114 -4.92906,-24.03568 -11.93624,-2.37453 -17.92517,12.88576 -4.75081,24.6503 z"
+         id="path3607"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccczcc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 337.04683,593.71964 c 0.25018,-2.53889 -0.13706,-13.14822 -0.9539,-14.09978 -1.10281,-1.28468 -2.90723,-3.2939 -3.59221,-4.97165 -0.95284,-2.33384 4.08772,-6.62488 3.74475,-2.1227 -0.0325,0.42649 0.007,1.40761 -0.29605,1.66745 -1.6698,1.43341 1.11536,-4.54471 2.82285,-3.52192 1.90403,1.14049 0.99055,4.62595 0.25061,3.76398 -0.66448,-0.77408 2.4976,-5.32265 3.37007,-4.3063 0.74197,0.86433 0.64886,1.78867 1.12662,2.95883 0.75615,1.85213 -2.18103,5.01301 -3.14924,5.84415 -0.81745,0.70174 0.038,5.71529 0.37934,6.11296 0.67681,0.7884 0.709,7.11977 1.50595,9.07178"
+         id="path3609"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssscssscscc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 333.64415,587.90213 c 3.41751,1.08614 6.56979,3.118 11.16504,0.005 l 1.12938,5.16121 c -3.55849,3.13442 -7.95716,2.9186 -12.89824,0.53999 z"
+         id="path3645"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <path
+       d="m 153.54318,258.12976 a 8.207489,8.207489 0 1 1 -16.41498,0 8.207489,8.207489 0 1 1 16.41498,0 z"
+       sodipodi:ry="8.207489"
+       sodipodi:rx="8.207489"
+       sodipodi:cy="258.12976"
+       sodipodi:cx="145.33569"
+       id="path3528"
+       style="fill:none;stroke:#000000"
+       sodipodi:type="arc"
+       transform="matrix(0.33044705,0.86715348,-0.16399619,1.7472863,331.15,221.42304)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3530"
+       d="m 336.10536,782.51768 1.5377,30.15725"
+       style="fill:none;stroke:#000000;stroke-width:0.84828973px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3532"
+       d="m 334.11805,804.79948 5.4298,-12.9731"
+       style="fill:none;stroke:#000000;stroke-width:0.84828973px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3534"
+       d="m 334.21446,791.02908 5.27809,13.57569"
+       style="fill:none;stroke:#000000;stroke-width:0.84828973px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3536"
+       d="m 338.21048,784.46728 -2.69262,27.58017"
+       style="fill:none;stroke:#000000;stroke-width:0.84828973px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m 153.54318,258.12976 a 8.207489,8.207489 0 1 1 -16.41498,0 8.207489,8.207489 0 1 1 16.41498,0 z"
+       sodipodi:ry="8.207489"
+       sodipodi:rx="8.207489"
+       sodipodi:cy="258.12976"
+       sodipodi:cx="145.33569"
+       id="path3496"
+       style="fill:none;stroke:#000000"
+       sodipodi:type="arc"
+       transform="matrix(0.81781149,0.85425842,-0.40586826,1.7213032,291.86734,255.78576)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3498"
+       d="m 304.13119,808.53661 3.80558,29.70879"
+       style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3500"
+       d="m 299.21286,830.48707 13.43802,-12.78019"
+       style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3502"
+       d="m 299.45147,816.92144 13.06254,13.37381"
+       style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3504"
+       d="m 309.34106,810.45722 -6.66386,27.17003"
+       style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.81781149,0.85425842,-0.40586826,1.7213032,369.04688,255.78576)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000"
+       id="path3508"
+       sodipodi:cx="145.33569"
+       sodipodi:cy="258.12976"
+       sodipodi:rx="8.207489"
+       sodipodi:ry="8.207489"
+       d="m 153.54318,258.12976 a 8.207489,8.207489 0 1 1 -16.41498,0 8.207489,8.207489 0 1 1 16.41498,0 z"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 381.31073,808.53661 3.80558,29.70879"
+       id="path3510"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 376.3924,830.48707 13.43802,-12.78019"
+       id="path3512"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 376.63101,816.92144 13.06254,13.37381"
+       id="path3514"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 386.5206,810.45722 -6.66386,27.17003"
+       id="path3516"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3445">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3526"
+         d="m 337.23076,767.44736 -0.18819,33.12087 5.92788,0.18819 -1.12912,-32.55632 z"
+         style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88699996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <g
+         id="g3440">
+        <path
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88699996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 306.68855,819.75094 25.46116,-54.75001 5.81488,3.1346 -23.80963,52.11394 z"
+           id="path3518"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88699996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 343.25274,764.43637 39.49889,53.74223 -9.88284,1.26217 -33.07191,-51.75956 z"
+           id="path3520"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88699996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 306.58906,819.75903 76.38113,-1.33069 0,8.25023 -76.91341,0.26614 z"
+           id="path3506"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         sodipodi:type="arc"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3492"
+         sodipodi:cx="157.32417"
+         sodipodi:cy="474.98734"
+         sodipodi:rx="8.84478"
+         sodipodi:ry="8.84478"
+         d="m 166.16895,474.98734 a 8.84478,8.84478 0 1 1 -17.68956,0 8.84478,8.84478 0 1 1 17.68956,0 z"
+         transform="matrix(1.3051138,0,0,1.3051138,133.21819,137.75694)" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3494"
+       d="m 331.09306,645.8693 c -0.74686,35.12904 1.53083,78.06208 2.68033,104.69044 3.27352,3.7193 9.89067,0.90113 8.83799,-2.023 0.065,-27.82527 1.3468,-71.40216 3.58116,-101.92323 z"
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3382">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         style="fill:#ffcc00;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 312.14232,640.30918 c 21.85557,7.73012 28.65461,6.96027 48.78883,-0.2059 0,0 -16.87213,41.71441 -22.59295,62.56057 -4.91539,-22.57865 -26.19588,-62.35467 -26.19588,-62.35467 z"
+         id="path3587"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         transform="translate(0,308.2677)"
+         d="m 341.63389,349.62878 a 4.9640627,4.9640627 0 1 1 -9.92812,0 4.9640627,4.9640627 0 1 1 9.92812,0 z"
+         sodipodi:ry="4.9640627"
+         sodipodi:rx="4.9640627"
+         sodipodi:cy="349.62878"
+         sodipodi:cx="336.66983"
+         id="path4543"
+         style="fill:#2c5aa0;fill-opacity:1;stroke:#d4aa00;stroke-width:1.88699996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4555"
+         d="m 330.3276,650.70388 c -2.66621,1.21082 -3.16021,3.38706 -3.76085,5.51591 l -9.02603,-11.03181 z"
+         style="fill:#d4aa00;stroke:#d4aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         style="fill:#d4aa00;stroke:#d4aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 343.51341,650.70388 c 2.59241,1.54113 3.25987,3.51002 3.76085,5.51591 l 9.02603,-11.03181 z"
+         id="path4557"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4559"
+         d="m 342.37334,666.30457 c -3.42858,0.93317 -6.76307,1.11364 -9.95549,0.15754 l 5.85512,24.53309 z"
+         style="fill:#d4aa00;stroke:#d4aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3649"
+       sodipodi:cx="157.32417"
+       sodipodi:cy="474.98734"
+       sodipodi:rx="8.84478"
+       sodipodi:ry="8.84478"
+       d="m 166.16895,474.98734 a 8.84478,8.84478 0 1 1 -17.68956,0 8.84478,8.84478 0 1 1 17.68956,0 z"
+       transform="matrix(1.3051138,0,0,1.3051138,443.48704,136.69239)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\g3493.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 638.96668,645.8693 c -5.07999,34.26241 -4.70768,76.81438 2.68033,104.69044 3.27352,3.7193 9.89067,0.90113 8.83799,-2.023 -4.83691,-27.82527 -0.56799,-71.40216 3.58116,-101.92323 z"
+       id="path3143"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\g3493.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3497"
+       transform="translate(-1.4949687,-2.3670338)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\g3493.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path3491"
+         d="m 663.83555,728.22752 2.56437,-10.43752 -41.79304,-13.27166 -4.41371,7.59987 43.64238,16.10931"
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(1.7733206,0.64607382,-0.64607382,1.7733206,410.88377,269.45154)"
+         sodipodi:type="arc"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         id="path3337"
+         sodipodi:cx="211.875"
+         sodipodi:cy="179.05861"
+         sodipodi:rx="5.8035712"
+         sodipodi:ry="5.8035712"
+         d="m 217.67857,179.05861 c 0,3.20522 -2.59835,5.80357 -5.80357,5.80357 -3.20522,0 -5.80357,-2.59835 -5.80357,-5.80357 0,-3.20522 2.59835,-5.80357 5.80357,-5.80357 3.20522,0 5.80357,2.59835 5.80357,5.80357 z" />
+    </g>
+    <g
+       id="g3464"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\g3493.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3651"
+         d="m 665.99311,633.83471 c -7.96692,8.98659 -7.31873,12.09002 -46.29396,3.38737 10.51724,13.80527 23.53168,26.83511 29.54534,50.99862 6.5901,-12.79369 15.86392,-34.33499 16.74862,-54.38599 z"
+         style="fill:#ffcc01;fill-opacity:1;stroke:#000000;stroke-width:1.88699996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         d="m 341.63389,349.62878 a 4.9640627,4.9640627 0 1 1 -9.92812,0 4.9640627,4.9640627 0 1 1 9.92812,0 z"
+         sodipodi:ry="4.9640627"
+         sodipodi:rx="4.9640627"
+         sodipodi:cy="349.62878"
+         sodipodi:cx="336.66983"
+         id="path4543-1"
+         style="fill:#2c5aa0;fill-opacity:1;stroke:#d4aa00;stroke-width:1.88699996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         sodipodi:type="arc"
+         transform="matrix(0.6387706,-0.06666809,0.10744884,1.0295054,401.92513,316.31927)" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4555-7"
+         d="m 649.10677,647.51794 c -2.53868,1.45942 -3.23044,6.3681 -1.99576,8.79524 -4.85212,-5.83921 -11.17698,-8.36474 -16.86855,-12.31519 z"
+         style="fill:#d4aa00;stroke:#d4aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4555-4"
+         d="m 651.14614,660.96173 c 2.22083,1.90858 5.21164,0.96394 7.26253,-0.47345 -1.81702,6.00614 -5.56739,12.78874 -8.25602,18.25012 0.68185,-5.85041 1.8639,-11.59363 0.99349,-17.77667 z"
+         style="fill:#d4aa00;stroke:#d4aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4555-0"
+         d="m 656.10788,646.58954 c 2.26775,0.87509 4.75461,4.03265 4.42782,6.81053 0,0 2.41498,-8.45389 2.54352,-12.86325 -1.51051,2.58984 -6.97134,6.05272 -6.97134,6.05272 z"
+         style="fill:#d4aa00;stroke:#d4aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+    </g>
+    <g
+       id="g3493"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path3339"
+         d="m 622.8803,699.71937 13.50485,-39.96809 -6.35941,-9.01147 -17.19767,52.28845 z"
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(1.7733206,0.64607382,-0.64607382,1.7733206,408.39216,267.70741)"
+         sodipodi:type="arc"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         id="path3335"
+         sodipodi:cx="183.125"
+         sodipodi:cy="178.70146"
+         sodipodi:rx="4.5535712"
+         sodipodi:ry="4.5535712"
+         d="m 187.67857,178.70146 a 4.5535712,4.5535712 0 1 1 -9.10714,0 4.5535712,4.5535712 0 1 1 9.10714,0 z" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\g3493.png"
+       id="g3501"
+       transform="translate(265.60611,11.461427)">
+      <path
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 679.63959,706.9586 46.01978,-6.80796 -2.75853,-10.3879 -43.03561,8.4102"
+         id="path3503"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         id="path3505"
+         sodipodi:cx="211.875"
+         sodipodi:cy="179.05861"
+         sodipodi:rx="5.8035712"
+         sodipodi:ry="5.8035712"
+         d="m 217.67857,179.05861 c 0,3.20522 -2.59835,5.80357 -5.80357,5.80357 -3.20522,0 -5.80357,-2.59835 -5.80357,-5.80357 0,-3.20522 2.59835,-5.80357 5.80357,-5.80357 3.20522,0 5.80357,2.59835 5.80357,5.80357 z"
+         transform="matrix(1.8862288,0.06494629,-0.06494629,1.8862288,337.88217,342.71526)" />
+    </g>
+    <path
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\neck.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3507"
+       d="m 822.68997,614.03954 -0.87148,20.89972 9.05591,-0.71494 -2.46489,-20.18478 z"
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\arm1.png"
+       id="g3509"
+       transform="translate(258.13127,-12.458073)">
+      <path
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 673.97761,692.90916 -12.69567,-48.53607 -8.67274,5.58135 16.20685,52.56316"
+         id="path3511"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         id="path3513"
+         sodipodi:cx="183.125"
+         sodipodi:cy="178.70146"
+         sodipodi:rx="4.5535712"
+         sodipodi:ry="4.5535712"
+         d="m 187.67857,178.70146 c 0,2.51487 -2.0387,4.55357 -4.55357,4.55357 -2.51487,0 -4.55357,-2.0387 -4.55357,-4.55357 0,-2.51487 2.0387,-4.55357 4.55357,-4.55357 2.51487,0 4.55357,2.0387 4.55357,4.55357 z"
+         transform="matrix(1.8862288,0.06494629,-0.06494629,1.8862288,340.90368,352.75013)" />
+    </g>
+    <g
+       id="g3654"
+       transform="translate(25.414468,14.451364)">
+      <path
+         d="m 153.54318,258.12976 c 0,4.53287 -3.67462,8.20749 -8.20749,8.20749 -4.53287,0 -8.20749,-3.67462 -8.20749,-8.20749 0,-4.53287 3.67462,-8.20749 8.20749,-8.20749 4.53287,0 8.20749,3.67462 8.20749,8.20749 z"
+         sodipodi:ry="8.207489"
+         sodipodi:rx="8.207489"
+         sodipodi:cy="258.12976"
+         sodipodi:cx="145.33569"
+         id="path3521"
+         style="fill:none;stroke:#000000"
+         sodipodi:type="arc"
+         transform="matrix(1.6905983,0.83902,-0.83902,1.6905983,829.01048,301.63097)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3523"
+         d="m 854.36258,844.52175 7.86699,29.17884"
+         style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3525"
+         d="m 844.19529,866.08065 27.77938,-12.55221"
+         style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3527"
+         d="m 844.68855,852.75701 27.00319,13.13524"
+         style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3529"
+         d="m 865.13254,846.4081 -13.77567,26.68537"
+         style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3531"
+       d="m 797.11522,798.35401 -33.2198,51.75161 -2.44129,-5.17233 30.63364,-50.53099 z"
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:transform-center-x="6.3750387"
+       inkscape:transform-center-y="5.9553203" />
+    <g
+       id="g3661">
+      <path
+         style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 806.85951,794.06882 16.85134,74.81982 4.04429,-4.04432 -14.82914,-72.79765 z"
+         id="path3517"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3533"
+         d="m 809.89609,801.39258 45.64251,61.63386 3.16254,-6.83782 -0.0234,-0.0313 -44.0493,-59.06539 z"
+         style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:transform-center-x="-6.740524"
+         inkscape:transform-center-y="5.392422"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 823.95644,864.70536 0,7.62603 35.50873,-7.62603 0.2383,-8.34098 z"
+         id="path3535"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g3647"
+       transform="translate(-16.195494,13.454718)">
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000"
+         id="path3537"
+         sodipodi:cx="145.33569"
+         sodipodi:cy="258.12976"
+         sodipodi:rx="8.207489"
+         sodipodi:ry="8.207489"
+         d="m 153.54318,258.12976 c 0,4.53287 -3.67462,8.20749 -8.20749,8.20749 -4.53287,0 -8.20749,-3.67462 -8.20749,-8.20749 0,-4.53287 3.67462,-8.20749 8.20749,-8.20749 4.53287,0 8.20749,3.67462 8.20749,8.20749 z"
+         transform="matrix(1.3208799,0.49037187,-0.66216744,1.7836334,754.70894,324.51474)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.63727641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 772.84717,842.04352 6.067,26.59686"
+         id="path3539"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.63727641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 764.81962,864.68911 21.78721,-17.28112"
+         id="path3541"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.63727641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 765.24773,851.77889 21.09867,7.57654"
+         id="path3543"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.63727641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 781.27272,841.84011 -10.86859,28.25358"
+         id="path3545"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g3640"
+       transform="translate(-0.74748435,30.397697)">
+      <path
+         transform="matrix(1.8681807,0.26828668,-0.26828668,1.8681807,621.09672,346.85216)"
+         d="m 153.54318,258.12976 c 0,4.53287 -3.67462,8.20749 -8.20749,8.20749 -4.53287,0 -8.20749,-3.67462 -8.20749,-8.20749 0,-4.53287 3.67462,-8.20749 8.20749,-8.20749 4.53287,0 8.20749,3.67462 8.20749,8.20749 z"
+         sodipodi:ry="8.207489"
+         sodipodi:rx="8.207489"
+         sodipodi:cy="258.12976"
+         sodipodi:cx="145.33569"
+         id="path3547"
+         style="fill:none;stroke:#000000"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3549"
+         d="m 814.94155,854.58959 16.5968,25.2555"
+         style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3551"
+         d="m 812.0257,878.24667 22.46114,-20.60944"
+         style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3553"
+         d="m 808.32785,865.43696 29.75646,4.03253"
+         style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3555"
+         d="m 825.76127,853.01353 -4.74021,29.65482"
+         style="fill:none;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\side.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       id="g3557"
+       transform="translate(192.85097,-28.902728)">
+      <path
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 648.128,587.75534 c -32.50672,4.71378 -16.57887,13.96084 2.0084,13.03761 19.68334,-0.97766 30.49831,-17.75138 -2.0084,-13.03761 z"
+         id="path3559"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="zsz" />
+      <path
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 629.69335,596.72166 4.61655,29.79171 c 10.2208,3.1274 23.9126,8.80684 33.57827,-7.6621 l 0.71471,-26.64669 c -7.80192,9.33274 -30.1363,10.33981 -38.90956,4.51708 z"
+         id="path3561"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5015)"
+         d="m 651.25421,604.96891 c -2.05732,-1.50828 -3.38844,-1.59399 -5.01324,-0.58977 -1.6248,1.00421 -2.15505,6.28225 1.64299,7.11967 3.79805,0.83743 5.4276,-5.02161 3.37025,-6.5299 z"
+         id="path3563"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="zzzz" />
+      <path
+         sodipodi:nodetypes="zzzz"
+         inkscape:connector-curvature="0"
+         id="path3565"
+         d="m 664.9457,602.06482 c -2.05733,-1.50826 -3.38844,-1.59399 -5.01325,-0.58977 -1.6248,1.00422 -2.15505,6.28225 1.643,7.11967 3.79803,0.83744 5.42759,-5.02161 3.37025,-6.5299 z"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5009)" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 644.58923,593.82182 c 4.16886,1.55818 8.07611,1.02342 11.79591,-1.01108 l -2.19069,-8.93119 c 7.26835,-11.62506 5.34161,-22.13082 -6.74053,-23.59184 -12.08213,-1.46101 -16.8946,14.2101 -2.86469,24.93995 z"
+         id="path3567"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccczcc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 648.75788,594.62023 c 0.0566,-2.55056 -1.13539,-13.09982 -2.02215,-13.98659 -1.1972,-1.1972 -3.14903,-3.06355 -3.95947,-4.68442 -1.12736,-2.25473 3.5727,-6.91624 3.5727,-2.40102 0,0.42773 0.11362,1.40304 -0.16854,1.68512 -1.5561,1.55611 0.76693,-4.6163 2.54718,-3.72616 1.98515,0.99257 1.33906,4.53734 0.53579,3.73407 -0.72136,-0.72137 2.08608,-5.49699 3.03323,-4.54985 0.80548,0.80548 0.78285,1.73422 1.34811,2.86471 0.89466,1.78934 -1.79394,5.16419 -2.69622,6.06648 -0.76179,0.7618 0.472,5.69589 0.84257,6.06648 0.73474,0.73472 1.24776,7.04535 2.19068,8.93118"
+         id="path3569"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssscssscscc" />
+      <path
+         style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 644.12473,588.27958 c 3.49014,0.82341 6.78765,2.60996 11.13314,-0.84342 l 1.51815,5.06051 c -3.31012,3.39566 -7.71248,3.51458 -12.81996,1.51816 z"
+         id="path3571"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g3666">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3573"
+         sodipodi:cx="157.32417"
+         sodipodi:cy="474.98734"
+         sodipodi:rx="8.84478"
+         sodipodi:ry="8.84478"
+         d="m 166.16895,474.98734 a 8.84478,8.84478 0 1 1 -17.68956,0 8.84478,8.84478 0 1 1 17.68956,0 z"
+         transform="matrix(1.3051138,0,0,1.3051138,602.95037,140.42982)"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\g3493.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 799.92498,650.35421 c -5.07999,34.26241 -4.70768,76.81438 2.68033,104.69044 3.27352,3.7193 9.89067,0.90113 8.83799,-2.023 -4.83691,-27.82527 -0.56799,-71.40216 3.58116,-101.92323 z"
+         id="path3575"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\g3493.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\hand.png"
+       transform="translate(254.14468,46.966933)"
+       id="g3577">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 663.83555,728.22752 2.56437,-10.43752 -41.79304,-13.27166 -4.41371,7.59987 43.64238,16.10931"
+         id="path3579" />
+      <path
+         d="m 217.67857,179.05861 c 0,3.20522 -2.59835,5.80357 -5.80357,5.80357 -3.20522,0 -5.80357,-2.59835 -5.80357,-5.80357 0,-3.20522 2.59835,-5.80357 5.80357,-5.80357 3.20522,0 5.80357,2.59835 5.80357,5.80357 z"
+         sodipodi:ry="5.8035712"
+         sodipodi:rx="5.8035712"
+         sodipodi:cy="179.05861"
+         sodipodi:cx="211.875"
+         id="path3582"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         sodipodi:type="arc"
+         transform="matrix(1.7733206,0.64607382,-0.64607382,1.7733206,410.88377,269.45154)" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\chest.png"
+       id="g3584"
+       transform="translate(231.22183,-13.454718)">
+      <path
+         style="fill:#ffcc01;fill-opacity:1;stroke:#000000;stroke-width:1.88699996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 665.99311,633.83471 c -7.96692,8.98659 -7.31873,12.09002 -46.29396,3.38737 10.51724,13.80527 23.53168,26.83511 29.54534,50.99862 6.5901,-12.79369 15.86392,-34.33499 16.74862,-54.38599 z"
+         id="path3586"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         transform="matrix(0.6387706,-0.06666809,0.10744884,1.0295054,401.92513,316.31927)"
+         sodipodi:type="arc"
+         style="fill:#2c5aa0;fill-opacity:1;stroke:#d4aa00;stroke-width:1.88699996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         id="path3588"
+         sodipodi:cx="336.66983"
+         sodipodi:cy="349.62878"
+         sodipodi:rx="4.9640627"
+         sodipodi:ry="4.9640627"
+         d="m 341.63389,349.62878 c 0,2.74158 -2.22248,4.96407 -4.96406,4.96407 -2.74158,0 -4.96406,-2.22249 -4.96406,-4.96407 0,-2.74157 2.22248,-4.96406 4.96406,-4.96406 2.74158,0 4.96406,2.22249 4.96406,4.96406 z" />
+      <path
+         style="fill:#d4aa00;stroke:#d4aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 649.10677,647.51794 c -2.53868,1.45942 -3.23044,6.3681 -1.99576,8.79524 -4.85212,-5.83921 -11.17698,-8.36474 -16.86855,-12.31519 z"
+         id="path3590"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#d4aa00;stroke:#d4aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 651.14614,660.96173 c 2.22083,1.90858 5.21164,0.96394 7.26253,-0.47345 -1.81702,6.00614 -5.56739,12.78874 -8.25602,18.25012 0.68185,-5.85041 1.8639,-11.59363 0.99349,-17.77667 z"
+         id="path3592"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#d4aa00;stroke:#d4aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 656.10788,646.58954 c 2.26775,0.87509 4.75461,4.03265 4.42782,6.81053 0,0 2.41498,-8.45389 2.54352,-12.86325 -1.51051,2.58984 -6.97134,6.05272 -6.97134,6.05272 z"
+         id="path3594"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       id="g3596"
+       transform="translate(234.71009,36.377572)">
+      <path
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 622.8803,699.71937 13.50485,-39.96809 -6.35941,-9.01147 -17.19767,52.28845 z"
+         id="path3598"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 187.67857,178.70146 c 0,2.51487 -2.0387,4.55357 -4.55357,4.55357 -2.51487,0 -4.55357,-2.0387 -4.55357,-4.55357 0,-2.51487 2.0387,-4.55357 4.55357,-4.55357 2.51487,0 4.55357,2.0387 4.55357,4.55357 z"
+         sodipodi:ry="4.5535712"
+         sodipodi:rx="4.5535712"
+         sodipodi:cy="178.70146"
+         sodipodi:cx="183.125"
+         id="path3600"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         sodipodi:type="arc"
+         transform="matrix(1.7733206,0.64607382,-0.64607382,1.7733206,408.39216,267.70741)" />
+    </g>
+    <g
+       id="g3670"
+       transform="translate(-147.50358,24.916145)">
+      <path
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 371.97593,690.46576 23.66386,24.00978 -3.02463,10.81724 -25.74731,-28.15795"
+         id="path3672"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 217.67857,179.05861 c 0,3.20522 -2.59835,5.80357 -5.80357,5.80357 -3.20522,0 -5.80357,-2.59835 -5.80357,-5.80357 0,-3.20522 2.59835,-5.80357 5.80357,-5.80357 3.20522,0 5.80357,2.59835 5.80357,5.80357 z"
+         sodipodi:ry="5.8035712"
+         sodipodi:rx="5.8035712"
+         sodipodi:cy="179.05861"
+         sodipodi:cx="211.875"
+         id="path3674"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         sodipodi:type="arc"
+         transform="matrix(-1.277485,1.3892838,1.3892838,1.277485,418.27947,199.04319)"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g3676"
+       transform="translate(-141.5237,-7.9731664)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 366.86785,697.13483 -21.85071,-37.12398 7.37947,-6.75986 19.57932,37.21477"
+         id="path3678" />
+      <path
+         d="m 187.67857,178.70146 c 0,2.51487 -2.0387,4.55357 -4.55357,4.55357 -2.51487,0 -4.55357,-2.0387 -4.55357,-4.55357 0,-2.51487 2.0387,-4.55357 4.55357,-4.55357 2.51487,0 4.55357,2.0387 4.55357,4.55357 z"
+         sodipodi:ry="4.5535712"
+         sodipodi:rx="4.5535712"
+         sodipodi:cy="178.70146"
+         sodipodi:cx="183.125"
+         id="path3680"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         sodipodi:type="arc"
+         transform="matrix(-1.277485,1.3892838,1.3892838,1.277485,355.68148,212.22925)"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g3682"
+       transform="translate(-221.75369,15.44801)">
+      <path
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 310.19583,691.92325 -22.78294,23.30504 2.50491,10.82607 26.62823,-28.33413"
+         id="path3684"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(1.277485,1.3892838,-1.3892838,1.277485,264.77321,199.79594)"
+         sodipodi:type="arc"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         id="path3686"
+         sodipodi:cx="211.875"
+         sodipodi:cy="179.05861"
+         sodipodi:rx="5.8035712"
+         sodipodi:ry="5.8035712"
+         d="m 217.67857,179.05861 c 0,3.20522 -2.59835,5.80357 -5.80357,5.80357 -3.20522,0 -5.80357,-2.59835 -5.80357,-5.80357 0,-3.20522 2.59835,-5.80357 5.80357,-5.80357 3.20522,0 5.80357,2.59835 5.80357,5.80357 z"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\front\neck.png"
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 172.38852,612.54456 -1.27068,24.89177 9.72125,-0.0496 -2.73103,-24.84217 z"
+       id="path3688"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <g
+       id="g3690"
+       transform="translate(-231.72015,-16.942979)">
+      <path
+         style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 317.25076,696.83931 15.12371,-41.74009 -6.1506,-8.36429 -15.14712,44.48358"
+         id="path3692"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(1.277485,1.3892838,-1.3892838,1.277485,327.3712,212.982)"
+         sodipodi:type="arc"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000"
+         id="path3694"
+         sodipodi:cx="183.125"
+         sodipodi:cy="178.70146"
+         sodipodi:rx="4.5535712"
+         sodipodi:ry="4.5535712"
+         d="m 187.67857,178.70146 c 0,2.51487 -2.0387,4.55357 -4.55357,4.55357 -2.51487,0 -4.55357,-2.0387 -4.55357,-4.55357 0,-2.51487 2.0387,-4.55357 4.55357,-4.55357 2.51487,0 4.55357,2.0387 4.55357,4.55357 z"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g3776"
+       transform="translate(0,-40.862478)">
+      <g
+         transform="translate(-166.43985,0.9966458)"
+         id="g3696">
+        <g
+           id="g3698">
+          <path
+             sodipodi:nodetypes="zsz"
+             inkscape:connector-curvature="0"
+             id="path3700"
+             d="m 337.68277,587.75534 c -32.50672,4.71378 -16.57887,13.96084 2.0084,13.03761 19.68334,-0.97766 30.49831,-17.75138 -2.0084,-13.03761 z"
+             style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             sodipodi:nodetypes="cccccc"
+             inkscape:connector-curvature="0"
+             id="path3702"
+             d="m 319.24812,596.72166 1.041,29.03896 c 7.96256,5.00927 22.0764,9.86356 38.70498,-3.02983 l -0.46008,-29.77346 c -7.80192,9.33274 -30.51267,9.58706 -39.28593,3.76433 z"
+             style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <g
+           id="g3704">
+          <path
+             sodipodi:nodetypes="zzzz"
+             inkscape:connector-curvature="0"
+             id="path3706"
+             d="m 334.03426,605.72166 c -2.05732,-1.50828 -3.38844,-1.59399 -5.01324,-0.58977 -1.6248,1.00421 -2.15505,6.28225 1.64299,7.11967 3.79805,0.83743 5.4276,-5.02161 3.37025,-6.5299 z"
+             style="fill:#ffffff;stroke:#ffffff;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5015)"
+             inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             style="fill:#ffffff;stroke:#ffffff;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5009)"
+             d="m 348.85487,605.07581 c -2.05733,-1.50826 -3.38844,-1.59399 -5.01325,-0.58977 -1.6248,1.00422 -2.15505,6.28225 1.643,7.11967 3.79803,0.83744 5.42759,-5.02161 3.37025,-6.5299 z"
+             id="path3708"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="zzzz"
+             inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+      </g>
+      <g
+         transform="translate(-166.43985,0.4983229)"
+         id="g3710">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 333.68633,593.46364 c 4.03846,1.87034 7.97504,1.63391 11.83863,-0.11216 l -1.50596,-9.07179 c 8.13037,-11.03938 7.0072,-21.66114 -4.92906,-24.03568 -11.93624,-2.37453 -17.92517,12.88576 -4.75081,24.6503 z"
+           id="path3712"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccczcc" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 337.04683,593.71964 c 0.25018,-2.53889 -0.13706,-13.14822 -0.9539,-14.09978 -1.10281,-1.28468 -2.90723,-3.2939 -3.59221,-4.97165 -0.95284,-2.33384 4.08772,-6.62488 3.74475,-2.1227 -0.0325,0.42649 0.007,1.40761 -0.29605,1.66745 -1.6698,1.43341 1.11536,-4.54471 2.82285,-3.52192 1.90403,1.14049 0.99055,4.62595 0.25061,3.76398 -0.66448,-0.77408 2.4976,-5.32265 3.37007,-4.3063 0.74197,0.86433 0.64886,1.78867 1.12662,2.95883 0.75615,1.85213 -2.18103,5.01301 -3.14924,5.84415 -0.81745,0.70174 0.038,5.71529 0.37934,6.11296 0.67681,0.7884 0.709,7.11977 1.50595,9.07178"
+           id="path3714"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cssscssscscc" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 333.64415,587.90213 c 3.41751,1.08614 6.56979,3.118 11.16504,0.005 l 1.12938,5.16121 c -3.55849,3.13442 -7.95716,2.9186 -12.89824,0.53999 z"
+           id="path3716"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+    </g>
+    <g
+       id="g3803"
+       transform="translate(-35.131765,-7.2256821)">
+      <path
+         d="m 153.54318,258.12976 c 0,4.53287 -3.67462,8.20749 -8.20749,8.20749 -4.53287,0 -8.20749,-3.67462 -8.20749,-8.20749 0,-4.53287 3.67462,-8.20749 8.20749,-8.20749 4.53287,0 8.20749,3.67462 8.20749,8.20749 z"
+         sodipodi:ry="8.207489"
+         sodipodi:rx="8.207489"
+         sodipodi:cy="258.12976"
+         sodipodi:cx="145.33569"
+         id="path3718"
+         style="fill:none;stroke:#000000"
+         sodipodi:type="arc"
+         transform="matrix(0.33044705,0.86715348,-0.16399619,1.7472863,164.71015,221.92136)"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3720"
+         d="m 169.66551,783.016 1.5377,30.15725"
+         style="fill:none;stroke:#000000;stroke-width:0.84828973px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3722"
+         d="m 167.6782,805.2978 5.4298,-12.9731"
+         style="fill:none;stroke:#000000;stroke-width:0.84828973px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3724"
+         d="m 167.77461,791.5274 5.27809,13.57569"
+         style="fill:none;stroke:#000000;stroke-width:0.84828973px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3726"
+         d="m 171.77063,784.9656 -2.69262,27.58017"
+         style="fill:none;stroke:#000000;stroke-width:0.84828973px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g3789"
+       transform="translate(-50.330613,4.4849061)">
+      <path
+         d="m 153.54318,258.12976 c 0,4.53287 -3.67462,8.20749 -8.20749,8.20749 -4.53287,0 -8.20749,-3.67462 -8.20749,-8.20749 0,-4.53287 3.67462,-8.20749 8.20749,-8.20749 4.53287,0 8.20749,3.67462 8.20749,8.20749 z"
+         sodipodi:ry="8.207489"
+         sodipodi:rx="8.207489"
+         sodipodi:cy="258.12976"
+         sodipodi:cx="145.33569"
+         id="path3728"
+         style="fill:none;stroke:#000000"
+         sodipodi:type="arc"
+         transform="matrix(0.81781149,0.85425842,-0.40586826,1.7213032,125.42749,256.28408)"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3730"
+         d="m 137.69134,809.03493 3.80558,29.70879"
+         style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3732"
+         d="M 132.77301,830.98539 146.21103,818.2052"
+         style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3734"
+         d="m 133.01162,817.41976 13.06254,13.37381"
+         style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3736"
+         d="m 142.90121,810.95554 -6.66386,27.17003"
+         style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g3796"
+       transform="translate(28.902728,12.707234)">
+      <path
+         transform="matrix(0.81781149,0.85425842,-0.40586826,1.7213032,202.60703,256.28408)"
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000"
+         id="path3738"
+         sodipodi:cx="145.33569"
+         sodipodi:cy="258.12976"
+         sodipodi:rx="8.207489"
+         sodipodi:ry="8.207489"
+         d="m 153.54318,258.12976 c 0,4.53287 -3.67462,8.20749 -8.20749,8.20749 -4.53287,0 -8.20749,-3.67462 -8.20749,-8.20749 0,-4.53287 3.67462,-8.20749 8.20749,-8.20749 4.53287,0 8.20749,3.67462 8.20749,8.20749 z"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 214.87088,809.03493 3.80558,29.70879"
+         id="path3740"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 209.95255,830.98539 223.39057,818.2052"
+         id="path3742"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 210.19116,817.41976 13.06254,13.37381"
+         id="path3744"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.32454443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 220.08075,810.95554 -6.66386,27.17003"
+         id="path3746"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g3748"
+       transform="translate(-165.44321,18.687109)">
+      <path
+         style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88699996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 337.23076,767.44736 -0.18819,33.12087 5.92788,0.18819 -1.12912,-32.55632 z"
+         id="path3750"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         id="g3752">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path3754"
+           d="m 306.68855,819.75094 25.46116,-54.75001 5.81488,3.1346 -23.80963,52.11394 z"
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88699996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path3756"
+           d="m 343.25274,764.43637 39.49889,53.74223 -9.88284,1.26217 -33.07191,-51.75956 z"
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88699996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+           inkscape:connector-curvature="0"
+           id="path3758"
+           d="m 306.58906,819.75903 76.38113,-1.33069 0,8.25023 -76.91341,0.26614 z"
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88699996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <path
+         transform="matrix(1.3051138,0,0,1.3051138,133.21819,137.75694)"
+         d="m 166.16895,474.98734 c 0,4.88483 -3.95994,8.84478 -8.84478,8.84478 -4.88483,0 -8.84478,-3.95995 -8.84478,-8.84478 0,-4.88484 3.95995,-8.84478 8.84478,-8.84478 4.88484,0 8.84478,3.95994 8.84478,8.84478 z"
+         sodipodi:ry="8.84478"
+         sodipodi:rx="8.84478"
+         sodipodi:cy="474.98734"
+         sodipodi:cx="157.32417"
+         id="path3760"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\front\body.png"
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 164.65321,646.36762 c -0.74686,35.12904 1.53083,78.06208 2.68033,104.69044 3.27352,3.7193 9.89067,0.90113 8.83799,-2.023 0.065,-27.82527 1.3468,-71.40216 3.58116,-101.92323 z"
+       id="path3762"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <g
+       id="g3764"
+       transform="translate(-206.03452,-39.694835)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\front\chest.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3766"
+         d="m 312.14232,640.30918 c 21.85557,7.73012 28.65461,6.96027 48.78883,-0.2059 0,0 -16.87213,41.71441 -22.59295,62.56057 -4.91539,-22.57865 -26.19588,-62.35467 -26.19588,-62.35467 z"
+         style="fill:#ffcc00;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#2c5aa0;fill-opacity:1;stroke:#d4aa00;stroke-width:1.88699996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3768"
+         sodipodi:cx="336.66983"
+         sodipodi:cy="349.62878"
+         sodipodi:rx="4.9640627"
+         sodipodi:ry="4.9640627"
+         d="m 341.63389,349.62878 c 0,2.74158 -2.22248,4.96407 -4.96406,4.96407 -2.74158,0 -4.96406,-2.22249 -4.96406,-4.96407 0,-2.74157 2.22248,-4.96406 4.96406,-4.96406 2.74158,0 4.96406,2.22249 4.96406,4.96406 z"
+         transform="translate(0,308.2677)"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#d4aa00;stroke:#d4aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 330.3276,650.70388 c -2.66621,1.21082 -3.16021,3.38706 -3.76085,5.51591 l -9.02603,-11.03181 z"
+         id="path3770"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3772"
+         d="m 343.51341,650.70388 c 2.59241,1.54113 3.25987,3.51002 3.76085,5.51591 l 9.02603,-11.03181 z"
+         style="fill:#d4aa00;stroke:#d4aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#d4aa00;stroke:#d4aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 342.37334,666.30457 c -3.42858,0.93317 -6.76307,1.11364 -9.95549,0.15754 l 5.85512,24.53309 z"
+         id="path3774"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+  </g>
+</svg>

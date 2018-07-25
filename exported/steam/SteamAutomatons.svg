@@ -1,0 +1,2857 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="SteamAutomatons.svg"
+   inkscape:export-filename="C:\Users\Ross Jones\Pictures\AutomatonsFinished.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3506">
+      <stop
+         style="stop-color:#ffea95;stop-opacity:1;"
+         offset="0"
+         id="stop3508" />
+      <stop
+         style="stop-color:#ffd21e;stop-opacity:1;"
+         offset="1"
+         id="stop3510" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5456"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5458" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5450"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5452" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5444"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5446" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5438"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5440" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5432"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5434" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5426"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5428" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5420"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5422" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5414"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5416" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5408"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5410" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5402"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5404" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5396"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5398" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5390"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5392" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5384"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5386" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5378"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5380" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5372"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5374" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5366"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5368" />
+    </linearGradient>
+    <filter
+       id="filter4420"
+       inkscape:label="Cubes"
+       inkscape:menu="Scatter"
+       inkscape:menu-tooltip="Scattered cubes; adjust the Morphology primitive to vary size"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence4422"
+         baseFrequency="0.14299516908212559"
+         numOctaves="1"
+         type="fractalNoise" />
+      <feColorMatrix
+         id="feColorMatrix4424"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 6 -3.5 "
+         result="result5" />
+      <feComposite
+         id="feComposite4426"
+         in2="result5"
+         operator="in"
+         in="SourceGraphic"
+         result="result6" />
+      <feMorphology
+         id="feMorphology4428"
+         result="result3"
+         radius="5"
+         operator="dilate"
+         in="result6" />
+      <feDisplacementMap
+         id="feDisplacementMap4430"
+         in2="result3"
+         result="result4"
+         scale="0"
+         yChannelSelector="A"
+         xChannelSelector="R"
+         in="result3" />
+      <feComposite
+         id="feComposite4432"
+         in2="result4"
+         operator="arithmetic"
+         result="result2"
+         k1="1"
+         k3="1" />
+      <feBlend
+         id="feBlend4434"
+         in2="result2"
+         mode="darken"
+         in="result2" />
+      <feConvolveMatrix
+         id="feConvolveMatrix4436"
+         order="3 3"
+         kernelMatrix="2 0 0 0 1 0 0 0 -1 "
+         targetX="1"
+         targetY="1"
+         divisor="2"
+         edgeMode="duplicate" />
+    </filter>
+    <filter
+       id="filter5058"
+       inkscape:label="Eroded metal"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5060"
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="1" />
+      <feTurbulence
+         id="feTurbulence5062"
+         type="turbulence"
+         baseFrequency="0.057"
+         seed="4"
+         numOctaves="4"
+         result="result1" />
+      <feDisplacementMap
+         id="feDisplacementMap5064"
+         in2="result1"
+         xChannelSelector="R"
+         result="result91" />
+      <feComposite
+         id="feComposite5066"
+         in2="result91"
+         result="result2"
+         operator="out"
+         in="result0" />
+      <feComposite
+         id="feComposite5068"
+         in2="result2"
+         k1="0.1"
+         k3="1.2"
+         in="SourceAlpha"
+         operator="arithmetic"
+         result="result5" />
+      <feBlend
+         id="feBlend5070"
+         in2="result5"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feGaussianBlur
+         id="feGaussianBlur5072"
+         stdDeviation="3"
+         in="fbSourceGraphic"
+         result="result0" />
+      <feSpecularLighting
+         id="feSpecularLighting5074"
+         in="result0"
+         result="result1"
+         lighting-color="rgb(254,230,93)"
+         surfaceScale="3"
+         specularConstant="0.4"
+         specularExponent="15">
+        <fePointLight
+           id="fePointLight5076"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5078"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite5080"
+         in2="result2"
+         k1="-1"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2.5"
+         k3="3.5" />
+      <feBlend
+         id="feBlend5082"
+         in2="result4"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter5084"
+       inkscape:label="Eroded metal"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5086"
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="1" />
+      <feTurbulence
+         id="feTurbulence5088"
+         type="turbulence"
+         baseFrequency="0.057"
+         seed="4"
+         numOctaves="4"
+         result="result1" />
+      <feDisplacementMap
+         id="feDisplacementMap5090"
+         in2="result1"
+         xChannelSelector="R"
+         result="result91" />
+      <feComposite
+         id="feComposite5092"
+         in2="result91"
+         result="result2"
+         operator="out"
+         in="result0" />
+      <feComposite
+         id="feComposite5094"
+         in2="result2"
+         k1="0.1"
+         k3="1.2"
+         in="SourceAlpha"
+         operator="arithmetic"
+         result="result5" />
+      <feBlend
+         id="feBlend5096"
+         in2="result5"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feGaussianBlur
+         id="feGaussianBlur5098"
+         stdDeviation="3"
+         in="fbSourceGraphic"
+         result="result0" />
+      <feSpecularLighting
+         id="feSpecularLighting5100"
+         in="result0"
+         result="result1"
+         lighting-color="rgb(254,230,93)"
+         surfaceScale="3"
+         specularConstant="0.4"
+         specularExponent="15">
+        <fePointLight
+           id="fePointLight5102"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5104"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite5106"
+         in2="result2"
+         k1="-1"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2.5"
+         k3="3.5" />
+      <feBlend
+         id="feBlend5108"
+         in2="result4"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter5110"
+       inkscape:label="Eroded metal"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5112"
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="1" />
+      <feTurbulence
+         id="feTurbulence5114"
+         type="turbulence"
+         baseFrequency="0.057"
+         seed="4"
+         numOctaves="4"
+         result="result1" />
+      <feDisplacementMap
+         id="feDisplacementMap5116"
+         in2="result1"
+         xChannelSelector="R"
+         result="result91" />
+      <feComposite
+         id="feComposite5118"
+         in2="result91"
+         result="result2"
+         operator="out"
+         in="result0" />
+      <feComposite
+         id="feComposite5120"
+         in2="result2"
+         k1="0.1"
+         k3="1.2"
+         in="SourceAlpha"
+         operator="arithmetic"
+         result="result5" />
+      <feBlend
+         id="feBlend5122"
+         in2="result5"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feGaussianBlur
+         id="feGaussianBlur5124"
+         stdDeviation="3"
+         in="fbSourceGraphic"
+         result="result0" />
+      <feSpecularLighting
+         id="feSpecularLighting5126"
+         in="result0"
+         result="result1"
+         lighting-color="rgb(254,230,93)"
+         surfaceScale="3"
+         specularConstant="0.4"
+         specularExponent="15">
+        <fePointLight
+           id="fePointLight5128"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5130"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite5132"
+         in2="result2"
+         k1="-1"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2.5"
+         k3="3.5" />
+      <feBlend
+         id="feBlend5134"
+         in2="result4"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter5136"
+       inkscape:label="Eroded metal"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5138"
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="1" />
+      <feTurbulence
+         id="feTurbulence5140"
+         type="turbulence"
+         baseFrequency="0.057"
+         seed="4"
+         numOctaves="4"
+         result="result1" />
+      <feDisplacementMap
+         id="feDisplacementMap5142"
+         in2="result1"
+         xChannelSelector="R"
+         result="result91" />
+      <feComposite
+         id="feComposite5144"
+         in2="result91"
+         result="result2"
+         operator="out"
+         in="result0" />
+      <feComposite
+         id="feComposite5146"
+         in2="result2"
+         k1="0.1"
+         k3="1.2"
+         in="SourceAlpha"
+         operator="arithmetic"
+         result="result5" />
+      <feBlend
+         id="feBlend5148"
+         in2="result5"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feGaussianBlur
+         id="feGaussianBlur5150"
+         stdDeviation="3"
+         in="fbSourceGraphic"
+         result="result0" />
+      <feSpecularLighting
+         id="feSpecularLighting5152"
+         in="result0"
+         result="result1"
+         lighting-color="rgb(254,230,93)"
+         surfaceScale="3"
+         specularConstant="0.4"
+         specularExponent="15">
+        <fePointLight
+           id="fePointLight5154"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5156"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite5158"
+         in2="result2"
+         k1="-1"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2.5"
+         k3="3.5" />
+      <feBlend
+         id="feBlend5160"
+         in2="result4"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter5162"
+       inkscape:label="Eroded metal"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5164"
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="1" />
+      <feTurbulence
+         id="feTurbulence5166"
+         type="turbulence"
+         baseFrequency="0.057"
+         seed="4"
+         numOctaves="4"
+         result="result1" />
+      <feDisplacementMap
+         id="feDisplacementMap5168"
+         in2="result1"
+         xChannelSelector="R"
+         result="result91" />
+      <feComposite
+         id="feComposite5170"
+         in2="result91"
+         result="result2"
+         operator="out"
+         in="result0" />
+      <feComposite
+         id="feComposite5172"
+         in2="result2"
+         k1="0.1"
+         k3="1.2"
+         in="SourceAlpha"
+         operator="arithmetic"
+         result="result5" />
+      <feBlend
+         id="feBlend5174"
+         in2="result5"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feGaussianBlur
+         id="feGaussianBlur5176"
+         stdDeviation="3"
+         in="fbSourceGraphic"
+         result="result0" />
+      <feSpecularLighting
+         id="feSpecularLighting5178"
+         in="result0"
+         result="result1"
+         lighting-color="rgb(254,230,93)"
+         surfaceScale="3"
+         specularConstant="0.4"
+         specularExponent="15">
+        <fePointLight
+           id="fePointLight5180"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5182"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite5184"
+         in2="result2"
+         k1="-1"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2.5"
+         k3="3.5" />
+      <feBlend
+         id="feBlend5186"
+         in2="result4"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter5314"
+       inkscape:label="Air spray"
+       inkscape:menu="Scatter"
+       inkscape:menu-tooltip="Convert to small scattered particles with some thickness"
+       width="2"
+       height="2"
+       y="-0.5"
+       x="-0.5"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5316"
+         stdDeviation="0.01"
+         result="result1" />
+      <feBlend
+         id="feBlend5318"
+         in2="result1"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feTurbulence
+         id="feTurbulence5320"
+         baseFrequency="0.8"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="3"
+         result="result3" />
+      <feDisplacementMap
+         id="feDisplacementMap5322"
+         in2="result3"
+         in="fbSourceGraphic"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="50"
+         result="result2" />
+      <feMorphology
+         id="feMorphology5324"
+         radius="1"
+         operator="dilate"
+         result="result4" />
+      <feBlend
+         id="feBlend5326"
+         in2="result2"
+         mode="screen" />
+    </filter>
+    <filter
+       id="filter3323"
+       inkscape:label="Cubes"
+       inkscape:menu="Scatter"
+       inkscape:menu-tooltip="Scattered cubes; adjust the Morphology primitive to vary size"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence3325"
+         baseFrequency="0.14299516908212559"
+         numOctaves="1"
+         type="fractalNoise" />
+      <feColorMatrix
+         id="feColorMatrix3327"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 6 -3.5 "
+         result="result5" />
+      <feComposite
+         id="feComposite3329"
+         in2="result5"
+         operator="in"
+         in="SourceGraphic"
+         result="result6" />
+      <feMorphology
+         id="feMorphology3331"
+         result="result3"
+         radius="5"
+         operator="dilate"
+         in="result6" />
+      <feDisplacementMap
+         id="feDisplacementMap3333"
+         in2="result3"
+         result="result4"
+         scale="0"
+         yChannelSelector="A"
+         xChannelSelector="R"
+         in="result3" />
+      <feComposite
+         id="feComposite3335"
+         in2="result4"
+         operator="arithmetic"
+         result="result2"
+         k1="1"
+         k3="1" />
+      <feBlend
+         id="feBlend3337"
+         in2="result2"
+         mode="darken"
+         in="result2" />
+      <feConvolveMatrix
+         id="feConvolveMatrix3339"
+         order="3 3"
+         kernelMatrix="2 0 0 0 1 0 0 0 -1 "
+         targetX="1"
+         targetY="1"
+         divisor="2"
+         edgeMode="duplicate" />
+    </filter>
+    <filter
+       id="filter4521"
+       inkscape:menu-tooltip="Pressed metal with a rolled edge"
+       inkscape:menu="Bevels"
+       inkscape:label="Pressed steel"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4523"
+         result="result1"
+         stdDeviation="3" />
+      <feBlend
+         id="feBlend4525"
+         in2="result1"
+         result="result5"
+         mode="multiply"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur4527"
+         in="result5"
+         result="result6"
+         stdDeviation="1" />
+      <feComposite
+         id="feComposite4529"
+         in2="result5"
+         result="result8"
+         in="result6"
+         operator="xor" />
+      <feComposite
+         id="feComposite4531"
+         in2="result8"
+         in="result6"
+         result="fbSourceGraphic"
+         operator="xor" />
+      <feSpecularLighting
+         id="feSpecularLighting4533"
+         in="fbSourceGraphic"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="2"
+         specularConstant="2.2"
+         specularExponent="55">
+        <fePointLight
+           id="fePointLight4535"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite4537"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite4539"
+         in2="result2"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2"
+         k3="1" />
+      <feComposite
+         id="feComposite4541"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result91" />
+      <feBlend
+         id="feBlend4543"
+         in2="result91"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter4545"
+       inkscape:menu-tooltip="Pressed metal with a rolled edge"
+       inkscape:menu="Bevels"
+       inkscape:label="Pressed steel"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4547"
+         result="result1"
+         stdDeviation="3" />
+      <feBlend
+         id="feBlend4549"
+         in2="result1"
+         result="result5"
+         mode="multiply"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur4551"
+         in="result5"
+         result="result6"
+         stdDeviation="1" />
+      <feComposite
+         id="feComposite4553"
+         in2="result5"
+         result="result8"
+         in="result6"
+         operator="xor" />
+      <feComposite
+         id="feComposite4555"
+         in2="result8"
+         in="result6"
+         result="fbSourceGraphic"
+         operator="xor" />
+      <feSpecularLighting
+         id="feSpecularLighting4557"
+         in="fbSourceGraphic"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="2"
+         specularConstant="2.2"
+         specularExponent="55">
+        <fePointLight
+           id="fePointLight4559"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite4561"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite4563"
+         in2="result2"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2"
+         k3="1" />
+      <feComposite
+         id="feComposite4565"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result91" />
+      <feBlend
+         id="feBlend4567"
+         in2="result91"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter4569"
+       inkscape:menu-tooltip="Pressed metal with a rolled edge"
+       inkscape:menu="Bevels"
+       inkscape:label="Pressed steel"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4571"
+         result="result1"
+         stdDeviation="3" />
+      <feBlend
+         id="feBlend4573"
+         in2="result1"
+         result="result5"
+         mode="multiply"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur4575"
+         in="result5"
+         result="result6"
+         stdDeviation="1" />
+      <feComposite
+         id="feComposite4577"
+         in2="result5"
+         result="result8"
+         in="result6"
+         operator="xor" />
+      <feComposite
+         id="feComposite4579"
+         in2="result8"
+         in="result6"
+         result="fbSourceGraphic"
+         operator="xor" />
+      <feSpecularLighting
+         id="feSpecularLighting4581"
+         in="fbSourceGraphic"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="2"
+         specularConstant="2.2"
+         specularExponent="55">
+        <fePointLight
+           id="fePointLight4583"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite4585"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite4587"
+         in2="result2"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2"
+         k3="1" />
+      <feComposite
+         id="feComposite4589"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result91" />
+      <feBlend
+         id="feBlend4591"
+         in2="result91"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter4593"
+       inkscape:menu-tooltip="Pressed metal with a rolled edge"
+       inkscape:menu="Bevels"
+       inkscape:label="Pressed steel"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4595"
+         result="result1"
+         stdDeviation="3" />
+      <feBlend
+         id="feBlend4597"
+         in2="result1"
+         result="result5"
+         mode="multiply"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur4599"
+         in="result5"
+         result="result6"
+         stdDeviation="1" />
+      <feComposite
+         id="feComposite4601"
+         in2="result5"
+         result="result8"
+         in="result6"
+         operator="xor" />
+      <feComposite
+         id="feComposite4603"
+         in2="result8"
+         in="result6"
+         result="fbSourceGraphic"
+         operator="xor" />
+      <feSpecularLighting
+         id="feSpecularLighting4605"
+         in="fbSourceGraphic"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="2"
+         specularConstant="2.2"
+         specularExponent="55">
+        <fePointLight
+           id="fePointLight4607"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite4609"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite4611"
+         in2="result2"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2"
+         k3="1" />
+      <feComposite
+         id="feComposite4613"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result91" />
+      <feBlend
+         id="feBlend4615"
+         in2="result91"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter4617"
+       inkscape:menu-tooltip="Pressed metal with a rolled edge"
+       inkscape:menu="Bevels"
+       inkscape:label="Pressed steel"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4619"
+         result="result1"
+         stdDeviation="3" />
+      <feBlend
+         id="feBlend4621"
+         in2="result1"
+         result="result5"
+         mode="multiply"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur4623"
+         in="result5"
+         result="result6"
+         stdDeviation="1" />
+      <feComposite
+         id="feComposite4625"
+         in2="result5"
+         result="result8"
+         in="result6"
+         operator="xor" />
+      <feComposite
+         id="feComposite4627"
+         in2="result8"
+         in="result6"
+         result="fbSourceGraphic"
+         operator="xor" />
+      <feSpecularLighting
+         id="feSpecularLighting4629"
+         in="fbSourceGraphic"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="2"
+         specularConstant="2.2"
+         specularExponent="55">
+        <fePointLight
+           id="fePointLight4631"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite4633"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite4635"
+         in2="result2"
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2"
+         k3="1" />
+      <feComposite
+         id="feComposite4637"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result91" />
+      <feBlend
+         id="feBlend4639"
+         in2="result91"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter4781"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Marbled transparency effect which conforms to image detected edges"
+       inkscape:menu="Image effects, transparent"
+       inkscape:label="Marbled ink"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4783"
+         result="result9"
+         in="SourceGraphic"
+         stdDeviation="2" />
+      <feTurbulence
+         id="feTurbulence4785"
+         baseFrequency="0.06"
+         numOctaves="10"
+         type="fractalNoise"
+         result="result7"
+         seed="0" />
+      <feColorMatrix
+         id="feColorMatrix4787"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.5 -0.3 "
+         result="result5" />
+      <feComposite
+         id="feComposite4789"
+         in2="result5"
+         in="result9"
+         operator="out"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur4791"
+         result="result10"
+         stdDeviation="0.5" />
+      <feDisplacementMap
+         id="feDisplacementMap4793"
+         in2="result10"
+         result="result4"
+         scale="120"
+         yChannelSelector="G"
+         xChannelSelector="A"
+         in="result5" />
+      <feComposite
+         id="feComposite4795"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result2" />
+      <feComposite
+         id="feComposite4797"
+         in2="SourceGraphic"
+         operator="in"
+         in="result2"
+         result="fbSourceGraphic" />
+      <feBlend
+         id="feBlend4799"
+         in2="result2"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter4801"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Marbled transparency effect which conforms to image detected edges"
+       inkscape:menu="Image effects, transparent"
+       inkscape:label="Marbled ink"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4803"
+         result="result9"
+         in="SourceGraphic"
+         stdDeviation="2" />
+      <feTurbulence
+         id="feTurbulence4805"
+         baseFrequency="0.06"
+         numOctaves="10"
+         type="fractalNoise"
+         result="result7"
+         seed="0" />
+      <feColorMatrix
+         id="feColorMatrix4807"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.5 -0.3 "
+         result="result5" />
+      <feComposite
+         id="feComposite4809"
+         in2="result5"
+         in="result9"
+         operator="out"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur4811"
+         result="result10"
+         stdDeviation="0.5" />
+      <feDisplacementMap
+         id="feDisplacementMap4813"
+         in2="result10"
+         result="result4"
+         scale="120"
+         yChannelSelector="G"
+         xChannelSelector="A"
+         in="result5" />
+      <feComposite
+         id="feComposite4815"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result2" />
+      <feComposite
+         id="feComposite4817"
+         in2="SourceGraphic"
+         operator="in"
+         in="result2"
+         result="fbSourceGraphic" />
+      <feBlend
+         id="feBlend4819"
+         in2="result2"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter4821"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Marbled transparency effect which conforms to image detected edges"
+       inkscape:menu="Image effects, transparent"
+       inkscape:label="Marbled ink"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4823"
+         result="result9"
+         in="SourceGraphic"
+         stdDeviation="2" />
+      <feTurbulence
+         id="feTurbulence4825"
+         baseFrequency="0.06"
+         numOctaves="10"
+         type="fractalNoise"
+         result="result7"
+         seed="0" />
+      <feColorMatrix
+         id="feColorMatrix4827"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.5 -0.3 "
+         result="result5" />
+      <feComposite
+         id="feComposite4829"
+         in2="result5"
+         in="result9"
+         operator="out"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur4831"
+         result="result10"
+         stdDeviation="0.5" />
+      <feDisplacementMap
+         id="feDisplacementMap4833"
+         in2="result10"
+         result="result4"
+         scale="120"
+         yChannelSelector="G"
+         xChannelSelector="A"
+         in="result5" />
+      <feComposite
+         id="feComposite4835"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result2" />
+      <feComposite
+         id="feComposite4837"
+         in2="SourceGraphic"
+         operator="in"
+         in="result2"
+         result="fbSourceGraphic" />
+      <feBlend
+         id="feBlend4839"
+         in2="result2"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter4841"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Marbled transparency effect which conforms to image detected edges"
+       inkscape:menu="Image effects, transparent"
+       inkscape:label="Marbled ink"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4843"
+         result="result9"
+         in="SourceGraphic"
+         stdDeviation="2" />
+      <feTurbulence
+         id="feTurbulence4845"
+         baseFrequency="0.06"
+         numOctaves="10"
+         type="fractalNoise"
+         result="result7"
+         seed="0" />
+      <feColorMatrix
+         id="feColorMatrix4847"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.5 -0.3 "
+         result="result5" />
+      <feComposite
+         id="feComposite4849"
+         in2="result5"
+         in="result9"
+         operator="out"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur4851"
+         result="result10"
+         stdDeviation="0.5" />
+      <feDisplacementMap
+         id="feDisplacementMap4853"
+         in2="result10"
+         result="result4"
+         scale="120"
+         yChannelSelector="G"
+         xChannelSelector="A"
+         in="result5" />
+      <feComposite
+         id="feComposite4855"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result2" />
+      <feComposite
+         id="feComposite4857"
+         in2="SourceGraphic"
+         operator="in"
+         in="result2"
+         result="fbSourceGraphic" />
+      <feBlend
+         id="feBlend4859"
+         in2="result2"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter4861"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4"
+       inkscape:menu-tooltip="Marbled transparency effect which conforms to image detected edges"
+       inkscape:menu="Image effects, transparent"
+       inkscape:label="Marbled ink"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4863"
+         result="result9"
+         in="SourceGraphic"
+         stdDeviation="2" />
+      <feTurbulence
+         id="feTurbulence4865"
+         baseFrequency="0.06"
+         numOctaves="10"
+         type="fractalNoise"
+         result="result7"
+         seed="0" />
+      <feColorMatrix
+         id="feColorMatrix4867"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.5 -0.3 "
+         result="result5" />
+      <feComposite
+         id="feComposite4869"
+         in2="result5"
+         in="result9"
+         operator="out"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur4871"
+         result="result10"
+         stdDeviation="0.5" />
+      <feDisplacementMap
+         id="feDisplacementMap4873"
+         in2="result10"
+         result="result4"
+         scale="120"
+         yChannelSelector="G"
+         xChannelSelector="A"
+         in="result5" />
+      <feComposite
+         id="feComposite4875"
+         in2="result4"
+         in="result9"
+         operator="in"
+         result="result2" />
+      <feComposite
+         id="feComposite4877"
+         in2="SourceGraphic"
+         operator="in"
+         in="result2"
+         result="fbSourceGraphic" />
+      <feBlend
+         id="feBlend4879"
+         in2="result2"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter5009"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5011"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite5013"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter5015"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5017"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite5019"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter5021"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5023"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite5025"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter5027"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5029"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite5031"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter5033"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5035"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite5037"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter5039"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5041"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite5043"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter4382"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4384"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite4386"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter4388"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4390"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite4392"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+    <filter
+       id="filter4394"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4396"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite4398"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.7574727"
+     inkscape:cx="1100.323"
+     inkscape:cy="425.05367"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     transform="translate(0,-308.2677)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Ground"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer"
+     style="display:inline"
+     transform="translate(0,-308.2677)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3490"
+       d="m 380.12047,717.22873 47.24694,-20.92365 5.39966,14.84903 -49.2718,24.29843 z"
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3492"
+       d="m 446.26618,634.20913 -4.04972,53.32152 18.2238,1.34993 5.39965,-58.04625 z"
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3494"
+       d="m 337.59823,715.87881 41.84729,-14.84903 12.14921,41.84729 -37.79754,25.64833 z"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       transform="matrix(1.8898773,0,0,1.8898773,-334.65812,353.68779)"
+       d="m 427.14285,180.93362 c 0,7.10081 -5.75634,12.85715 -12.85714,12.85715 -7.10081,0 -12.85715,-5.75634 -12.85715,-12.85715 0,-7.1008 5.75634,-12.85714 12.85715,-12.85714 7.1008,0 12.85714,5.75634 12.85714,12.85714 z"
+       sodipodi:ry="12.857142"
+       sodipodi:rx="12.857142"
+       sodipodi:cy="180.93362"
+       sodipodi:cx="414.28571"
+       id="path3496"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:nodetypes="cczc"
+       inkscape:connector-curvature="0"
+       id="path3498"
+       d="m 433.44201,638.93382 55.89854,-1.261 c 4.71622,-33.79241 -0.62828,-60.99133 -27.55038,-60.83498 -26.92209,0.15629 -28.01315,43.42274 -28.34816,62.09598 z"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3500"
+       d="m 340.29806,728.02802 23.62346,-8.09947"
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 345.01332,741.57104 21.60802,-8.24328"
+       id="path3502"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3504"
+       d="m 348.97257,755.40149 22.37347,-11.84947"
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4157"
+       d="m 873.06373,495.50344 -4.05678,43.31187 -14.07934,-1.67042 -1.19317,-44.863"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 818.41676,495.50344 4.05677,43.31187 14.07934,-1.67042 1.19317,-44.863"
+       id="path4155"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4117"
+       d="m 876.21328,840.07076 -1.34992,40.49736 -14.17407,-0.67494 2.02486,-41.84729 z"
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4119"
+       d="m 866.7639,762.45079 8.77442,53.32155 -13.49912,3.37477 -16.19895,-58.04622 z"
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4121"
+       d="m 879.58806,805.64798 -25.64834,2.69984 4.72469,37.79754 22.94851,-3.37478 z"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 789.14391,839.39579 1.34992,40.49736 14.17409,-0.67494 -2.02488,-41.8473 z"
+       id="path4111"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 798.5933,761.77583 -8.77442,53.32153 13.49912,3.37478 16.19895,-58.04622 z"
+       id="path4109"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 787.87173,646.31951 3.81813,95.45323 82.08977,1.90906 20.04517,-98.31681 z"
+       id="path4105"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 766.87036,648.23347 151.1902,1.34992 c 3.87947,-55.33024 1.13995,-113.23177 -67.49564,-115.26779 -68.63557,-2.03602 -83.03313,53.32549 -83.69456,113.91787 z"
+       id="path4101"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczc"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       style="fill:#cccccc;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 408.87251,634.38656 -28.9831,14.61861 6.87592,17.09147 28.65615,-5.82435 z"
+       id="path4047"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cccccc;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 438.84166,660.53241 16.19895,72.22031 66.14571,0 -17.54885,-93.14395 z"
+       id="path4041"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 452.84701,722.62838 64.28956,-10.63056"
+       id="path4051"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 413.86829,667.28197 122.84203,-22.94851 c -1.78147,-77.71151 -33.42879,-101.83536 -76.27006,-97.19369 -42.84128,4.64167 -66.1599,74.75831 -46.57197,120.1422 z"
+       id="path4039"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4053"
+       d="m 449.80972,705.75447 64.28956,-10.63055"
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4013"
+       d="m 492.16321,754.35131 -14.84905,67.49562 -24.29842,-4.04974 18.22383,-65.47074 z"
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4023"
+       d="m 488.37344,855.11737 -34.82835,27.40592 72.5115,-8.56433 -17.69967,-23.40923 z"
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1.59867907px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4025"
+       d="m 487.80249,863.68173 24.24712,-2.92575 -12.25703,-50.17322 -21.69636,4.56764 z"
+       style="fill:#808080;stroke:#000000;stroke-width:1.59867907px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       d="m 430.71429,246.6479 c 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14213,0 -7.5,-3.35786 -7.5,-7.5 0,-4.14213 3.35787,-7.5 7.5,-7.5 4.14214,0 7.5,3.35787 7.5,7.5 z"
+       sodipodi:ry="7.5"
+       sodipodi:rx="7.5"
+       sodipodi:cy="246.6479"
+       sodipodi:cx="423.21429"
+       id="path4027"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       transform="matrix(1.598679,0,0,1.598679,-188.21031,418.55577)" />
+    <path
+       transform="matrix(1.598679,0,0,1.598679,-176.22021,467.65805)"
+       sodipodi:type="arc"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4029"
+       sodipodi:cx="423.21429"
+       sodipodi:cy="246.6479"
+       sodipodi:rx="7.5"
+       sodipodi:ry="7.5"
+       d="m 430.71429,246.6479 c 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14213,0 -7.5,-3.35786 -7.5,-7.5 0,-4.14213 3.35787,-7.5 7.5,-7.5 4.14214,0 7.5,3.35787 7.5,7.5 z" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.59867907px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 502.66663,752.96255 -2.24226,58.41807 -20.8362,0.27168 5.35546,-57.2383 z"
+       id="path4031"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:0.76073919999999984;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4035"
+       sodipodi:cx="423.21429"
+       sodipodi:cy="246.6479"
+       sodipodi:rx="7.5"
+       sodipodi:ry="7.5"
+       d="m 430.71429,246.6479 c 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14213,0 -7.5,-3.35786 -7.5,-7.5 0,-4.14213 3.35787,-7.5 7.5,-7.5 4.14214,0 7.5,3.35787 7.5,7.5 z"
+       transform="matrix(2.1032175,0,0,2.1032175,-401.73821,294.11241)" />
+    <path
+       d="m 430.71429,246.6479 c 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14213,0 -7.5,-3.35786 -7.5,-7.5 0,-4.14213 3.35787,-7.5 7.5,-7.5 4.14214,0 7.5,3.35787 7.5,7.5 z"
+       sodipodi:ry="7.5"
+       sodipodi:rx="7.5"
+       sodipodi:cy="246.6479"
+       sodipodi:cx="423.21429"
+       id="path4037"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       transform="matrix(1.598679,0,0,1.598679,-176.22021,467.65805)" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 492.16321,754.35131 -14.84905,67.49562 -24.29842,-4.04974 18.22383,-65.47074 z"
+       id="path4011"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 464.49,879.89318 29.69808,-4.04975 -15.524,-58.72119 -25.64834,5.39964 z"
+       id="path4009"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 380.12047,717.22873 47.24694,-20.92365 5.39966,14.84903 -49.2718,24.29843 z"
+       id="path3225"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 442.04773,669.64432 64.28956,-10.63055"
+       id="path4057"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 446.26618,634.20913 -4.04972,53.32152 18.2238,1.34993 5.39965,-58.04625 z"
+       id="path3223"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 445.08502,686.85568 64.28956,-10.63056"
+       id="path4055"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 337.59823,715.87881 41.84729,-14.84903 12.14921,41.84729 -37.79754,25.64833 z"
+       id="path3215"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3219"
+       sodipodi:cx="414.28571"
+       sodipodi:cy="180.93362"
+       sodipodi:rx="12.857142"
+       sodipodi:ry="12.857142"
+       d="m 427.14285,180.93362 c 0,7.10081 -5.75634,12.85715 -12.85714,12.85715 -7.10081,0 -12.85715,-5.75634 -12.85715,-12.85715 0,-7.1008 5.75634,-12.85714 12.85715,-12.85714 7.1008,0 12.85714,5.75634 12.85714,12.85714 z"
+       transform="matrix(1.8898773,0,0,1.8898773,-334.65812,353.68779)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 448.74999,241.5945 11.25,54.24999 -53,11.5"
+       id="path4217"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 433.44201,638.93382 55.89854,-1.261 c 4.71622,-33.79241 -0.62828,-60.99133 -27.55038,-60.83498 -26.92209,0.15629 -28.01315,43.42274 -28.34816,62.09598 z"
+       id="path3221"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 340.29806,728.02802 23.62346,-8.09947"
+       id="path3227"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3229"
+       d="m 345.01332,741.57104 21.60802,-8.24328"
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 348.97257,755.40149 22.37347,-11.84947"
+       id="path3231"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4001"
+       sodipodi:cx="423.21429"
+       sodipodi:cy="246.6479"
+       sodipodi:rx="7.5"
+       sodipodi:ry="7.5"
+       d="m 430.71429,246.6479 c 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14213,0 -7.5,-3.35786 -7.5,-7.5 0,-4.14213 3.35787,-7.5 7.5,-7.5 4.14214,0 7.5,3.35787 7.5,7.5 z"
+       transform="matrix(1.8898773,0,0,1.8898773,-334.65812,353.68779)" />
+    <path
+       style="fill:#999999;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 523.88614,723.9783 -72.89526,2.02486 0,29.02311 72.89526,4.7247 z"
+       id="path4003"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 430.71429,246.6479 c 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14213,0 -7.5,-3.35786 -7.5,-7.5 0,-4.14213 3.35787,-7.5 7.5,-7.5 4.14214,0 7.5,3.35787 7.5,7.5 z"
+       sodipodi:ry="7.5"
+       sodipodi:rx="7.5"
+       sodipodi:cy="246.6479"
+       sodipodi:cx="423.21429"
+       id="path4005"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       transform="matrix(1.8898773,0,0,1.8898773,-320.48403,411.73402)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4015"
+       d="m 464.49,879.89318 29.69808,-4.04975 -15.524,-58.72119 -25.64834,5.39964 z"
+       style="fill:#808080;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 465.16495,869.76881 -41.17232,32.39791 85.71942,-10.12434 -17.73169,-24.71978 c -11.11388,-3.99383 -14.97985,-5.47229 -26.81541,2.44621 z"
+       id="path4007"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       d="m 430.71429,246.6479 c 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14213,0 -7.5,-3.35786 -7.5,-7.5 0,-4.14213 3.35787,-7.5 7.5,-7.5 4.14214,0 7.5,3.35787 7.5,7.5 z"
+       sodipodi:ry="7.5"
+       sodipodi:rx="7.5"
+       sodipodi:cy="246.6479"
+       sodipodi:cx="423.21429"
+       id="path4017"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:0.68096646000000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       transform="matrix(2.7754671,0,0,2.7754671,-709.45239,135.25892)" />
+    <path
+       transform="matrix(1.8898773,0,0,1.8898773,-320.48403,411.73402)"
+       sodipodi:type="arc"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4019"
+       sodipodi:cx="423.21429"
+       sodipodi:cy="246.6479"
+       sodipodi:rx="7.5"
+       sodipodi:ry="7.5"
+       d="m 430.71429,246.6479 c 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14213,0 -7.5,-3.35786 -7.5,-7.5 0,-4.14213 3.35787,-7.5 7.5,-7.5 4.14214,0 7.5,3.35787 7.5,7.5 z" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 382.07532,622.82768 24.29844,55.3464 -48.59685,11.47425 -20.92365,-44.5471 z"
+       id="path4043"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter4382)"
+       id="path4045"
+       sodipodi:cx="357.14285"
+       sodipodi:cy="152.71933"
+       sodipodi:rx="1.7857143"
+       sodipodi:ry="3.5714285"
+       d="m 358.92857,152.71933 c 0,1.97245 -0.79949,3.57143 -1.78572,3.57143 -0.98622,0 -1.78571,-1.59898 -1.78571,-3.57143 0,-1.97245 0.79949,-3.57143 1.78571,-3.57143 0.98623,0 1.78572,1.59898 1.78572,3.57143 z"
+       transform="matrix(1.7833047,-0.62566828,0.62566828,1.7833047,-380.0354,607.31648)"
+       inkscape:transform-center-x="1.9913407"
+       inkscape:transform-center-y="-0.3668521" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 466.51487,557.26411 c 8.84833,6.94443 15.77586,4.92514 21.93608,-0.67495 l -5.06217,-75.17325 c -11.32678,10.48439 -20.84324,10.66615 -30.37304,4.9778 z"
+       id="path4059"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 512.41189,575.48794 c -2.69984,7.6495 -0.44999,12.59918 6.74956,14.84903 l 34.42277,-12.14921 1.67043,-82.80496 c -8.53082,6.71097 -20.94091,11.98112 -31.2527,0.88214 l 6.97125,68.76116 z"
+       id="path4061"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4063"
+       sodipodi:cx="423.92856"
+       sodipodi:cy="69.147903"
+       sodipodi:rx="7.8571429"
+       sodipodi:ry="3.9285715"
+       d="m 431.7857,69.147903 c 0,2.169691 -3.51776,3.928572 -7.85714,3.928572 -4.33938,0 -7.85714,-1.758881 -7.85714,-3.928572 0,-2.16969 3.51776,-3.928571 7.85714,-3.928571 4.33938,0 7.85714,1.758881 7.85714,3.928571 z"
+       transform="matrix(1.9356525,-0.32145359,0.33488186,1.8580358,-375.77967,489.80058)" />
+    <path
+       transform="matrix(1.9870517,-0.01875528,0.01599694,2.3296746,-303.94646,340.61561)"
+       d="m 431.7857,69.147903 c 0,2.169691 -3.51776,3.928572 -7.85714,3.928572 -4.33938,0 -7.85714,-1.758881 -7.85714,-3.928572 0,-2.16969 3.51776,-3.928571 7.85714,-3.928571 4.33938,0 7.85714,1.758881 7.85714,3.928571 z"
+       sodipodi:ry="3.9285715"
+       sodipodi:rx="7.8571429"
+       sodipodi:cy="69.147903"
+       sodipodi:cx="423.92856"
+       id="path4065"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aa8800;fill-opacity:1;stroke:#aa8800;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4067"
+       sodipodi:cx="423.92856"
+       sodipodi:cy="69.147903"
+       sodipodi:rx="7.8571429"
+       sodipodi:ry="3.9285715"
+       d="m 431.7857,69.147903 c 0,2.169691 -3.51776,3.928572 -7.85714,3.928572 -4.33938,0 -7.85714,-1.758881 -7.85714,-3.928572 0,-2.16969 3.51776,-3.928571 7.85714,-3.928571 4.33938,0 7.85714,1.758881 7.85714,3.928571 z"
+       transform="matrix(1.2637153,-0.01192789,0.01017364,1.4816149,3.0991773,396.36283)" />
+    <path
+       transform="matrix(1.2213964,-0.20283715,0.21131037,1.1724203,-64.441355,486.92456)"
+       d="m 431.7857,69.147903 c 0,2.169691 -3.51776,3.928572 -7.85714,3.928572 -4.33938,0 -7.85714,-1.758881 -7.85714,-3.928572 0,-2.16969 3.51776,-3.928571 7.85714,-3.928571 4.33938,0 7.85714,1.758881 7.85714,3.928571 z"
+       sodipodi:ry="3.9285715"
+       sodipodi:rx="7.8571429"
+       sodipodi:cy="69.147903"
+       sodipodi:cx="423.92856"
+       id="path4069"
+       style="fill:#aa8800;fill-opacity:1;stroke:#aa8800;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 843.93192,225.43167 -0.70711,73.89266 74.59977,0.35355"
+       id="path4227"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4095"
+       d="m 749.84815,648.09375 -10.09217,75.88455 -24.97339,-3.37478 16.84176,-79.93428 z"
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 700.26146,711.5073 46.77206,-0.95454 -4.77266,69.68085 -49.63566,-8.5908 z"
+       id="path4097"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4099"
+       d="m 767.42917,591.01193 -4.98178,60.61725 -45.89703,-4.7247 c 10.07189,-33.20633 -9.7948,-81.44949 50.87881,-55.89255 z"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 788.82625,738.90913 89.72604,1.4318 -1.90906,35.3177 -89.24877,-1.43181 z"
+       id="path4103"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 785.76914,804.97301 25.64834,2.69985 -4.7247,37.79754 -22.94851,-3.37479 z"
+       id="path4107"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4123"
+       d="m 794.67924,557.26411 c 8.84833,6.94443 15.77586,4.92514 21.93606,-0.67495 l -5.06217,-75.17325 c -11.32676,10.48439 -20.84322,10.66615 -30.37302,4.9778 z"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       transform="matrix(1.9356525,-0.32145359,0.33488186,1.8580358,-47.615285,489.80058)"
+       d="m 431.7857,69.147903 c 0,2.169691 -3.51776,3.928572 -7.85714,3.928572 -4.33938,0 -7.85714,-1.758881 -7.85714,-3.928572 0,-2.16969 3.51776,-3.928571 7.85714,-3.928571 4.33938,0 7.85714,1.758881 7.85714,3.928571 z"
+       sodipodi:ry="3.9285715"
+       sodipodi:rx="7.8571429"
+       sodipodi:cy="69.147903"
+       sodipodi:cx="423.92856"
+       id="path4125"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aa8800;fill-opacity:1;stroke:#aa8800;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4127"
+       sodipodi:cx="423.92856"
+       sodipodi:cy="69.147903"
+       sodipodi:rx="7.8571429"
+       sodipodi:ry="3.9285715"
+       d="m 431.7857,69.147903 c 0,2.169691 -3.51776,3.928572 -7.85714,3.928572 -4.33938,0 -7.85714,-1.758881 -7.85714,-3.928572 0,-2.16969 3.51776,-3.928571 7.85714,-3.928571 4.33938,0 7.85714,1.758881 7.85714,3.928571 z"
+       transform="matrix(1.2213964,-0.20283715,0.21131037,1.1724203,263.723,486.92456)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 896.79322,557.26411 c -8.84833,6.94443 -15.77586,4.92514 -21.93608,-0.67495 l 5.06217,-75.17325 c 11.32678,10.48439 20.84324,10.66615 30.37304,4.9778 z"
+       id="path4129"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4131"
+       sodipodi:cx="423.92856"
+       sodipodi:cy="69.147903"
+       sodipodi:rx="7.8571429"
+       sodipodi:ry="3.9285715"
+       d="m 431.7857,69.147903 c 0,2.169691 -3.51776,3.928572 -7.85714,3.928572 -4.33938,0 -7.85714,-1.758881 -7.85714,-3.928572 0,-2.16969 3.51776,-3.928571 7.85714,-3.928571 4.33938,0 7.85714,1.758881 7.85714,3.928571 z"
+       transform="matrix(-1.9356525,-0.32145359,-0.33488186,1.8580358,1739.0877,489.80058)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       transform="matrix(-1.2213964,-0.20283715,-0.21131037,1.1724203,1427.7495,486.92456)"
+       d="m 431.7857,69.147903 c 0,2.169691 -3.51776,3.928572 -7.85714,3.928572 -4.33938,0 -7.85714,-1.758881 -7.85714,-3.928572 0,-2.16969 3.51776,-3.928571 7.85714,-3.928571 4.33938,0 7.85714,1.758881 7.85714,3.928571 z"
+       sodipodi:ry="3.9285715"
+       sodipodi:rx="7.8571429"
+       sodipodi:cy="69.147903"
+       sodipodi:cx="423.92856"
+       id="path4133"
+       style="fill:#aa8800;fill-opacity:1;stroke:#aa8800;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 698.69979,722.96585 46.90945,5.73713"
+       id="path4135"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 697.01239,739.50228 47.58443,5.73714"
+       id="path4137"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 694.98754,754.6888 48.25937,6.41207"
+       id="path4139"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4147"
+       sodipodi:cx="423.92856"
+       sodipodi:cy="69.147903"
+       sodipodi:rx="7.8571429"
+       sodipodi:ry="3.9285715"
+       d="m 431.7857,69.147903 c 0,2.169691 -3.51776,3.928572 -7.85714,3.928572 -4.33938,0 -7.85714,-1.758881 -7.85714,-3.928572 0,-2.16969 3.51776,-3.928571 7.85714,-3.928571 4.33938,0 7.85714,1.758881 7.85714,3.928571 z"
+       transform="matrix(1.2589888,-0.20908013,0.21781414,1.2085053,279.05972,499.22514)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       transform="matrix(0.7944217,-0.13192952,0.13744069,0.76256659,481.56063,497.35453)"
+       d="m 431.7857,69.147903 c 0,2.169691 -3.51776,3.928572 -7.85714,3.928572 -4.33938,0 -7.85714,-1.758881 -7.85714,-3.928572 0,-2.16969 3.51776,-3.928571 7.85714,-3.928571 4.33938,0 7.85714,1.758881 7.85714,3.928571 z"
+       sodipodi:ry="3.9285715"
+       sodipodi:rx="7.8571429"
+       sodipodi:cy="69.147903"
+       sodipodi:cx="423.92856"
+       id="path4149"
+       style="fill:#aa8800;fill-opacity:1;stroke:#aa8800;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       transform="matrix(-1.2589888,-0.20908013,-0.21781414,1.2085053,1412.0603,499.22514)"
+       d="m 431.7857,69.147903 c 0,2.169691 -3.51776,3.928572 -7.85714,3.928572 -4.33938,0 -7.85714,-1.758881 -7.85714,-3.928572 0,-2.16969 3.51776,-3.928571 7.85714,-3.928571 4.33938,0 7.85714,1.758881 7.85714,3.928571 z"
+       sodipodi:ry="3.9285715"
+       sodipodi:rx="7.8571429"
+       sodipodi:cy="69.147903"
+       sodipodi:cx="423.92856"
+       id="path4151"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aa8800;fill-opacity:1;stroke:#aa8800;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4153"
+       sodipodi:cx="423.92856"
+       sodipodi:cy="69.147903"
+       sodipodi:rx="7.8571429"
+       sodipodi:ry="3.9285715"
+       d="m 431.7857,69.147903 c 0,2.169691 -3.51776,3.928572 -7.85714,3.928572 -4.33938,0 -7.85714,-1.758881 -7.85714,-3.928572 0,-2.16969 3.51776,-3.928571 7.85714,-3.928571 4.33938,0 7.85714,1.758881 7.85714,3.928571 z"
+       transform="matrix(-0.7944217,-0.13192952,-0.13744069,0.76256659,1209.5594,497.35453)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 788.82627,672.09189 100.22588,0.47727"
+       id="path4159"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 789.78081,691.18254 95.45319,0.47724"
+       id="path4161"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 790.73532,709.7959 90.2033,0"
+       id="path4165"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 790.25805,724.11389 88.02139,0.0775"
+       id="path4167"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 531.39073,293.66747 -31.28947,7.42463 8.3085,39.24442"
+       id="path3381"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 351.25528,368.97434 25.63262,-9.89949 -14.14213,-35.00178"
+       id="path3393"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 357.79602,369.68145 c -0.2357,-0.0589 -0.76603,0.0589 -0.7071,-0.17678 0.0589,-0.2357 0.78393,-0.0537 0.7071,0.17678 -0.93859,2.81578 -0.88388,-0.41693 -0.88388,0.53033 0,3.57929 3.87929,0.21852 0.88388,-0.53033 z"
+       id="path3395"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3399"
+       sodipodi:cx="377.77179"
+       sodipodi:cy="330.79059"
+       sodipodi:rx="5.3033009"
+       sodipodi:ry="5.3033009"
+       d="m 383.07509,330.79059 c 0,2.92893 -2.37437,5.3033 -5.3033,5.3033 -2.92893,0 -5.3033,-2.37437 -5.3033,-5.3033 0,-2.92893 2.37437,-5.3033 5.3033,-5.3033 2.92893,0 5.3033,2.37437 5.3033,5.3033 z"
+       transform="translate(1.1291208,313.53693)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3403"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="translate(0,308.0177)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       transform="translate(35.749999,308.0177)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path3405"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3407"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="translate(76.999998,308.0177)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       transform="translate(0,326.2677)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path3409"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3411"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="translate(35.749999,326.2677)" />
+    <path
+       transform="translate(76.999998,326.2677)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path3413"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0.90617433,0,0,0.90617433,75.962015,393.30381)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path3421"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3423"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="matrix(0.90617433,0,0,0.90617433,108.35775,393.30381)" />
+    <path
+       transform="matrix(0.90617433,0,0,0.90617433,145.73744,393.30381)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path3425"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3427"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="matrix(0.94552058,0,0,0.94552058,44.526334,363.88544)" />
+    <path
+       transform="matrix(0.94552058,0,0,0.94552058,78.328695,363.88544)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path3429"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3431"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="matrix(0.94552058,0,0,0.94552058,117.33142,363.88544)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3433"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="matrix(0.83958838,0,0,0.83958838,131.91086,432.03104)" />
+    <path
+       transform="matrix(0.83958838,0,0,0.83958838,161.92615,432.03104)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path3435"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3437"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="matrix(0.83958838,0,0,0.83958838,196.55917,432.03104)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3439"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="translate(-298.99999,310.7677)" />
+    <path
+       transform="translate(-294.75735,330.38991)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path3441"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3443"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="translate(-291.22182,347.71403)" />
+    <path
+       transform="translate(-293.87347,255.4366)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path3445"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4215"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="translate(-288.49847,279.5616)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4219"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="translate(-385.12347,247.6866)" />
+    <path
+       transform="translate(-355.62347,199.1866)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path4221"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4223"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="translate(-352.37347,214.6866)" />
+    <path
+       transform="translate(-369.62347,244.6866)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path4225"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       transform="translate(82.143397,242.51896)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path4233"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4235"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="translate(107.1434,242.51896)"
+       inkscape:transform-center-x="2.8"
+       inkscape:transform-center-y="-2.8"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4237"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="matrix(0,-1,1,0,489.54892,1391.7134)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       inkscape:transform-center-y="2.7999576"
+       inkscape:transform-center-x="2.7999986"
+       transform="matrix(0,-1,1,0,489.54892,1366.7134)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path4239"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4241"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="matrix(0,-1,1,0,489.29892,1344.2134)"
+       inkscape:transform-center-x="2.7999986"
+       inkscape:transform-center-y="2.7999576"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 938.13168,648.09375 10.09217,75.88455 24.97339,-3.37478 -16.84176,-79.93428 z"
+       id="path4243"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 920.55066,591.01193 4.98178,60.61725 45.89703,-4.7247 c -10.07189,-33.20633 9.7948,-81.44949 -50.87881,-55.89255 z"
+       id="path4245"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 484.72169,448.87741 2.47487,-31.99658"
+       id="path3460"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#666666;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4247"
+       sodipodi:cx="483.75"
+       sodipodi:cy="431.34448"
+       sodipodi:rx="7"
+       sodipodi:ry="7"
+       d="m 490.75,431.34448 c 0,3.866 -3.13401,7 -7,7 -3.86599,0 -7,-3.134 -7,-7 0,-3.86599 3.13401,-7 7,-7 3.86599,0 7,3.13401 7,7 z"
+       transform="translate(2.2499999,309.5177)" />
+    <path
+       style="fill:#808080;stroke:#808080;stroke-width:0.53033006000000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 873.05301,293.43183 0.23629,-5.48007 -1.55751,0.002 c -0.85662,0.001 -7.4282,0.40142 -14.6035,0.8899 -7.1753,0.48847 -13.06607,0.84565 -13.09059,0.79373 -0.0245,-0.0519 0.0616,-10.19719 0.19141,-22.54504 0.1298,-12.34786 0.25323,-26.38834 0.27428,-31.20109 l 0.0383,-8.75045 3.62392,0.004 c 4.39974,0.004 10.98935,0.5396 15.29119,1.24186 3.46342,0.5654 10.40227,2.18763 11.02496,2.57753 0.27967,0.17511 0.22996,2.69782 -0.17827,9.04648 l -0.56608,8.80365 1.57721,1.37413 c 5.84122,5.08913 13.22448,5.52265 20.01889,1.17542 2.44454,-1.56408 2.53975,-1.67791 2.76338,-3.30388 0.37618,-2.73521 0.57676,-2.74596 2.71497,-0.1455 6.10916,7.42989 10.87793,17.51322 13.50106,28.54736 1.18192,4.97173 2.60731,14.16398 2.91934,18.82672 l 0.24251,3.62392 -22.32902,0 -22.32901,0 0.23629,-5.48008 z m 12.74774,3.18154 c 1.50188,-1.05195 1.21342,-4.27218 -0.4395,-4.90646 -1.37081,-0.52603 -2.93578,-0.22251 -3.67081,0.71194 -1.55512,1.97701 -0.36709,4.72529 2.04265,4.72529 0.72044,0 1.65088,-0.23884 2.06766,-0.53077 z m 25.20896,-0.17633 c 0.9741,-0.97411 0.94296,-3.06213 -0.0616,-4.13147 -1.7591,-1.87247 -4.88812,-0.54626 -4.88812,2.07177 0,1.82019 0.9677,2.7668 2.82843,2.7668 0.94281,0 1.64991,-0.2357 2.12132,-0.7071 z M 851.8779,283.49931 c 2.46653,-2.76044 -1.72512,-6.4941 -4.3471,-3.87213 -1.00841,1.00842 -1.12927,2.49065 -0.29965,3.6751 1.17094,1.67175 3.25027,1.75992 4.64675,0.19703 l 0,0 z m -0.58808,-24.28501 c 0.76102,-0.58429 1.38358,-1.81393 1.38358,-2.73275 0,-0.9603 -1.83785,-2.82447 -2.7846,-2.82447 -2.8047,0 -4.22577,3.14626 -2.29371,5.07831 1.0132,1.01321 2.71202,1.23341 3.69473,0.47891 z m 0.29726,-23.10579 c 1.50703,-1.91588 0.3681,-4.7253 -1.91563,-4.7253 -1.68051,0 -2.25322,0.29559 -2.86503,1.47871 -0.43327,0.83785 -0.45988,1.27476 -0.13718,2.25253 0.48,1.45443 1.15211,1.90054 2.88491,1.91487 0.99103,0.008 1.47439,-0.21074 2.03293,-0.92081 l 0,0 z"
+       id="path4260"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <g
+       id="g3387">
+      <path
+         inkscape:export-ydpi="22.319796"
+         inkscape:export-xdpi="22.319796"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+         inkscape:connector-curvature="0"
+         id="path4083"
+         d="m 814.81037,601.06111 -1.90905,58.22648 57.27192,-2.8636 1.90905,-59.181 z"
+         style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="22.319796"
+         inkscape:export-xdpi="22.319796"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter4394)"
+         id="path4085"
+         sodipodi:cx="357.14285"
+         sodipodi:cy="152.71933"
+         sodipodi:rx="1.7857143"
+         sodipodi:ry="3.5714285"
+         d="m 358.92857,152.71933 c 0,1.97245 -0.79949,3.57143 -1.78572,3.57143 -0.98622,0 -1.78571,-1.59898 -1.78571,-3.57143 0,-1.97245 0.79949,-3.57143 1.78571,-3.57143 0.98623,0 1.78572,1.59898 1.78572,3.57143 z"
+         transform="matrix(1.889204,-0.05044608,0.05044608,1.889204,146.40592,353.34811)"
+         inkscape:transform-center-x="1.7837866"
+         inkscape:transform-center-y="-0.95815647" />
+      <path
+         inkscape:export-ydpi="22.319796"
+         inkscape:export-xdpi="22.319796"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+         inkscape:transform-center-y="-0.95815647"
+         inkscape:transform-center-x="1.7837914"
+         transform="matrix(1.889204,-0.05044608,0.05044608,1.889204,172.89419,353.34811)"
+         d="m 358.92857,152.71933 c 0,1.97245 -0.79949,3.57143 -1.78572,3.57143 -0.98622,0 -1.78571,-1.59898 -1.78571,-3.57143 0,-1.97245 0.79949,-3.57143 1.78571,-3.57143 0.98623,0 1.78572,1.59898 1.78572,3.57143 z"
+         sodipodi:ry="3.5714285"
+         sodipodi:rx="1.7857143"
+         sodipodi:cy="152.71933"
+         sodipodi:cx="357.14285"
+         id="path4089"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter4388)"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="22.319796"
+         inkscape:export-xdpi="22.319796"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+         transform="translate(0,308.2677)"
+         inkscape:connector-curvature="0"
+         id="path3387"
+         d="m 814.41021,330.43703 56.39177,-0.70711"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="22.319796"
+         inkscape:export-xdpi="22.319796"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+         transform="translate(25.143398,283.26896)"
+         d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+         sodipodi:ry="2"
+         sodipodi:rx="2"
+         sodipodi:cy="360.09448"
+         sodipodi:cx="801.75"
+         id="path4229"
+         style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="22.319796"
+         inkscape:export-xdpi="22.319796"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4231"
+         sodipodi:cx="801.75"
+         sodipodi:cy="360.09448"
+         sodipodi:rx="2"
+         sodipodi:ry="2"
+         d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+         transform="translate(54.488329,283.26896)" />
+      <path
+         inkscape:export-ydpi="22.319796"
+         inkscape:export-xdpi="22.319796"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+         transform="translate(0,308.2677)"
+         inkscape:connector-curvature="0"
+         id="path4262"
+         d="m 814.33353,340.7196 c 0.13312,-5.0072 0.34203,-9.2108 0.46424,-9.34133 0.20732,-0.22144 54.507,-1.1036 54.72159,-0.88901 0.22361,0.22361 -0.36158,15.7949 -0.60862,16.19461 -0.19676,0.31836 -7.37712,0.79414 -26.72635,1.77093 -14.55153,0.7346 -26.82532,1.34309 -27.27511,1.35221 l -0.81778,0.0166 0.24203,-9.104 z m 14.74018,-3.66416 c 0.97347,-1.17249 0.81489,-3.28967 -0.31284,-4.17674 -1.97948,-1.55706 -4.7253,-0.28518 -4.7253,2.18879 0,2.73302 3.32895,4.04657 5.03814,1.98795 z m 29.34493,0 c 0.97347,-1.17249 0.81489,-3.28967 -0.31284,-4.17674 -1.97948,-1.55706 -4.72529,-0.28518 -4.72529,2.18879 0,2.73302 3.32894,4.04657 5.03813,1.98795 z"
+         style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.53033006000000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <path
+       style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:1.06066012000000010;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 505.70766,321.85774 c -2.05711,-9.81994 -3.87148,-18.33174 -4.03194,-18.9151 -0.23213,-0.84396 2.67897,-1.75885 14.24823,-4.47788 7.99698,-1.87947 14.65234,-3.30485 14.78968,-3.16751 0.13734,0.13735 0.89341,4.06158 1.68016,8.72052 1.82111,10.7843 3.37305,29.87063 2.49336,30.66428 -0.4869,0.43928 -23.44028,5.03014 -25.14969,5.03014 -0.15928,0 -1.97269,-8.0345 -4.0298,-17.85445 z m 9.12762,12.17271 c 2.71068,-1.45071 1.27723,-5.63197 -1.9308,-5.63197 -3.77157,0 -3.48325,5.35223 0.3398,6.30814 0.1228,0.0307 0.83875,-0.27357 1.591,-0.67617 l 0,0 z m -4.28913,-25.43096 c 1.04184,-1.9467 -0.26406,-4.24264 -2.41317,-4.24264 -2.22307,0 -3.50655,1.68484 -2.95562,3.8799 0.35007,1.39478 0.89397,1.77695 2.52895,1.77695 1.35928,0 2.34593,-0.49134 2.83984,-1.41421 z"
+       id="path4264"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <path
+       style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:1.06066012000000010;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 409.87059,303.50281 c 3.46325,-19.32065 12.26011,-37.75871 23.34544,-48.93168 3.65996,-3.68889 14.24473,-11.41405 14.83307,-10.82572 0.27467,0.27468 4.51429,20.0802 4.51429,21.08868 0,0.4031 -0.50002,0.23288 -1.11116,-0.37827 -0.61115,-0.61114 -1.54301,-1.11116 -2.07082,-1.11116 -0.5278,0 -1.45967,0.50002 -2.07081,1.11116 -1.42443,1.42444 -1.40847,2.73316 0.0511,4.19277 0.75478,0.75479 1.80845,1.024 3.0052,0.76783 1.70761,-0.36552 1.73908,-0.33034 0.42868,0.47919 -6.04576,3.73492 -12.59302,14.20671 -14.51571,23.21662 -0.76645,3.5917 -1.05341,4.16184 -1.38879,2.75934 -0.34983,-1.46294 -0.84398,-1.76777 -2.86571,-1.76777 -2.32059,0 -2.443,0.124 -2.443,2.47487 0,2.38854 0.0925,2.47488 2.65217,2.47488 5.20266,0 2.02552,1.44848 -8.01347,3.65341 -16.3771,3.597 -14.83734,3.51161 -14.35053,0.79585 z m 8.43108,-1.26728 c 0.14896,0 0.61143,-0.6364 1.02771,-1.41422 1.5904,-2.97169 -2.4082,-5.79424 -4.80833,-3.39411 -2.02223,2.02223 -0.007,6.05767 2.56806,5.14286 0.51795,-0.18399 1.0636,-0.33453 1.21256,-0.33453 z m 29.87766,-48.93179 c 2.4591,-2.45909 -1.0708,-7.02993 -3.72672,-4.8257 -1.30088,1.07962 -1.43857,4.70523 -0.19772,5.20593 1.56856,0.63292 3.05534,0.48887 3.92444,-0.38023 z"
+       id="path4266"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 770.49998,295.59449 28.875,-0.25 0,44.5"
+       id="path3448"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.18750000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 777.11336,339.06108 c -5.03982,-0.0495 -9.17687,-0.11031 -9.19346,-0.13508 -0.0716,-0.10687 0.17754,-8.62663 0.35585,-12.17004 0.52752,-10.48282 1.51369,-19.92183 2.94695,-28.20626 l 0.40332,-2.33125 2.01282,-0.0732 c 1.10705,-0.0403 7.23,-0.10815 13.60656,-0.15085 l 11.59375,-0.0776 0,21.63835 0,21.63836 -6.28125,-0.0212 c -3.45468,-0.0116 -10.40473,-0.0617 -15.44454,-0.11121 z"
+       id="path3450"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       transform="translate(-6.8798335,281.58914)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path3452"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3454"
+       sodipodi:cx="801.75"
+       sodipodi:cy="360.09448"
+       sodipodi:rx="2"
+       sodipodi:ry="2"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       transform="translate(-7.5048335,248.96414)"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       transform="translate(-26.254833,248.96414)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path3456"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       transform="translate(-7.5048335,265.71414)"
+       d="m 803.75,360.09448 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 1.10457,0 2,0.89543 2,2 z"
+       sodipodi:ry="2"
+       sodipodi:rx="2"
+       sodipodi:cy="360.09448"
+       sodipodi:cx="801.75"
+       id="path3458"
+       style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+       inkscape:export-xdpi="22.319796"
+       inkscape:export-ydpi="22.319796" />
+    <path
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 789.5778,878.47894 -8.77442,32.3979 30.37301,-2.69982 -6.0746,-31.04798 z"
+       id="path4113"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4115"
+       d="m 875.77941,879.86101 8.7744,32.39791 -30.37301,-2.69982 6.0746,-31.04799 z"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4081"
+       d="m 989.27798,712.18225 -46.77203,-0.95454 4.77265,69.68085 49.63568,-8.59079 z"
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffcc00;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 944.38384,729.04047 46.57194,-3.3748"
+       id="path4141"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 993.31808,741.18967 -47.92182,5.06217"
+       id="path4143"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffcc00;stroke:#000000;stroke-width:1.88987732000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 946.07124,764.13819 48.93434,-6.41209"
+       id="path4145"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.35510849999999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 355.71811,374.50268 c -1.43525,-3.05511 -2.57573,-5.57997 -2.53438,-5.61078 0.0413,-0.0308 5.53729,-2.15837 12.21322,-4.72788 6.67593,-2.56952 12.16898,-4.69794 12.20679,-4.72982 0.0498,-0.042 -8.79616,-22.06255 -13.83247,-34.43377 -0.0449,-0.1103 3.92229,-2.17115 8.81598,-4.57968 6.82378,-3.35844 8.93398,-4.32054 9.05358,-4.12775 0.0858,0.13826 5.34444,12.06481 11.68593,26.50344 9.64571,21.96186 11.48101,26.27526 11.23037,26.39403 -0.3592,0.17021 -45.61728,10.86696 -45.97825,10.86696 -0.14487,0 -1.35582,-2.3513 -2.86077,-5.55475 z m 3.1761,-2.58433 c 0.26464,-0.23288 0.5342,-0.69964 0.59902,-1.03725 0.10263,-0.5345 0.0301,-0.69665 -0.56156,-1.25461 -0.77867,-0.73438 -1.61357,-0.98922 -2.14781,-0.65558 -0.51286,0.32028 -0.48771,2.39967 0.036,2.97839 0.47968,0.53003 1.45335,0.51551 2.07433,-0.031 z m 22.52165,-30.19791 c 3.89425,-1.7329 4.87305,-7.01281 1.85884,-10.02702 -2.49417,-2.49417 -6.59106,-2.38341 -8.95154,0.24202 -1.96213,2.18236 -2.10563,5.33643 -0.35755,7.8589 0.58305,0.84134 1.56823,1.56044 2.84006,2.07299 1.19536,0.48175 3.35191,0.41303 4.61019,-0.14689 z"
+       id="path4421"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <g
+       id="g3421"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\industry\images\minimap\worker.png"
+       inkscape:export-xdpi="79.421341"
+       inkscape:export-ydpi="79.421341">
+      <path
+         inkscape:export-ydpi="22.319796"
+         inkscape:export-xdpi="22.319796"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+         inkscape:connector-curvature="0"
+         id="path3419"
+         d="m 1020.9069,599.10139 -2.1586,65.83872 64.7593,-3.23797 2.1586,-66.91803 z"
+         style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2.13695048999999980px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.88987732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1024.5258,602.65793 -1.909,58.22648 57.2719,-2.8636 1.909,-59.181 z"
+         id="path3398"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+         inkscape:export-xdpi="22.319796"
+         inkscape:export-ydpi="22.319796" />
+      <path
+         inkscape:transform-center-y="-0.95815647"
+         inkscape:transform-center-x="1.7837866"
+         transform="matrix(1.889204,-0.05044608,0.05044608,1.889204,356.12135,354.94493)"
+         d="m 358.92857,152.71933 a 1.7857143,3.5714285 0 1 1 -3.57143,0 1.7857143,3.5714285 0 1 1 3.57143,0 z"
+         sodipodi:ry="3.5714285"
+         sodipodi:rx="1.7857143"
+         sodipodi:cy="152.71933"
+         sodipodi:cx="357.14285"
+         id="path3400"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter4394)"
+         sodipodi:type="arc"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+         inkscape:export-xdpi="22.319796"
+         inkscape:export-ydpi="22.319796" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter4388)"
+         id="path3402"
+         sodipodi:cx="357.14285"
+         sodipodi:cy="152.71933"
+         sodipodi:rx="1.7857143"
+         sodipodi:ry="3.5714285"
+         d="m 358.92857,152.71933 a 1.7857143,3.5714285 0 1 1 -3.57143,0 1.7857143,3.5714285 0 1 1 3.57143,0 z"
+         transform="matrix(1.889204,-0.05044608,0.05044608,1.889204,382.60962,354.94493)"
+         inkscape:transform-center-x="1.7837914"
+         inkscape:transform-center-y="-0.95815647"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+         inkscape:export-xdpi="22.319796"
+         inkscape:export-ydpi="22.319796" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1024.1256,640.30155 56.3918,-0.70711"
+         id="path3404"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+         inkscape:export-xdpi="22.319796"
+         inkscape:export-ydpi="22.319796" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3406"
+         sodipodi:cx="801.75"
+         sodipodi:cy="360.09448"
+         sodipodi:rx="2"
+         sodipodi:ry="2"
+         d="m 803.75,360.09448 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+         transform="translate(234.85883,284.86578)"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+         inkscape:export-xdpi="22.319796"
+         inkscape:export-ydpi="22.319796" />
+      <path
+         transform="translate(264.20376,284.86578)"
+         d="m 803.75,360.09448 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
+         sodipodi:ry="2"
+         sodipodi:rx="2"
+         sodipodi:cy="360.09448"
+         sodipodi:cx="801.75"
+         id="path3408"
+         style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+         inkscape:export-xdpi="22.319796"
+         inkscape:export-ydpi="22.319796" />
+      <path
+         style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.53033006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 1024.049,650.58412 c 0.1331,-5.0072 0.342,-9.2108 0.4642,-9.34133 0.2073,-0.22144 54.507,-1.1036 54.7216,-0.88901 0.2236,0.22361 -0.3616,15.7949 -0.6086,16.19461 -0.1968,0.31836 -7.3771,0.79414 -26.7264,1.77093 -14.5515,0.7346 -26.8253,1.34309 -27.2751,1.35221 l -0.8178,0.0166 0.2421,-9.104 z m 14.7401,-3.66416 c 0.9735,-1.17249 0.8149,-3.28967 -0.3128,-4.17674 -1.9795,-1.55706 -4.7253,-0.28518 -4.7253,2.18879 0,2.73302 3.329,4.04657 5.0381,1.98795 z m 29.345,0 c 0.9734,-1.17249 0.8149,-3.28967 -0.3129,-4.17674 -1.9794,-1.55706 -4.7253,-0.28518 -4.7253,2.18879 0,2.73302 3.329,4.04657 5.0382,1.98795 z"
+         id="path3410"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\worker.png"
+         inkscape:export-xdpi="22.319796"
+         inkscape:export-ydpi="22.319796" />
+    </g>
+  </g>
+</svg>

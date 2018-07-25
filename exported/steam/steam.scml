@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b10">
-    <folder id="0" name="worker">
-        <file id="0" name="worker/waste.png" width="76" height="38" pivot_x="0" pivot_y="1"/>
-        <file id="1" name="worker/torso.png" width="85" height="96" pivot_x="0" pivot_y="1"/>
-        <file id="2" name="worker/thigh.png" width="41" height="72" pivot_x="0" pivot_y="1"/>
-        <file id="3" name="worker/shoulder.png" width="60" height="115" pivot_x="0" pivot_y="1"/>
-        <file id="4" name="worker/shin.png" width="53" height="84" pivot_x="0" pivot_y="1"/>
-        <file id="5" name="worker/head.png" width="81" height="69" pivot_x="0" pivot_y="1"/>
-        <file id="6" name="worker/foot.png" width="89" height="41" pivot_x="0" pivot_y="1"/>
-        <file id="7" name="worker/body.png" width="152" height="198" pivot_x="0" pivot_y="1"/>
-        <file id="8" name="worker/arm.png" width="139" height="100" pivot_x="0" pivot_y="1"/>
-        <file id="9" name="worker/shadow.png" width="100" height="25" pivot_x="0" pivot_y="1"/>
+    <folder id="0" name="steam">
+        <file id="0" name="steam/waste.png" width="76" height="38" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="steam/torso.png" width="85" height="96" pivot_x="0" pivot_y="1"/>
+        <file id="2" name="steam/thigh.png" width="41" height="72" pivot_x="0" pivot_y="1"/>
+        <file id="3" name="steam/shoulder.png" width="60" height="115" pivot_x="0" pivot_y="1"/>
+        <file id="4" name="steam/shin.png" width="53" height="84" pivot_x="0" pivot_y="1"/>
+        <file id="5" name="steam/head.png" width="81" height="69" pivot_x="0" pivot_y="1"/>
+        <file id="6" name="steam/foot.png" width="89" height="41" pivot_x="0" pivot_y="1"/>
+        <file id="7" name="steam/body.png" width="152" height="198" pivot_x="0" pivot_y="1"/>
+        <file id="8" name="steam/arm.png" width="139" height="100" pivot_x="0" pivot_y="1"/>
+        <file id="9" name="steam/shadow.png" width="100" height="25" pivot_x="0" pivot_y="1"/>
     </folder>
-    <entity id="0" name="worker">
-        <obj_info name="worker_waste" realname="waste" type="sprite">
+    <entity id="0" name="steam">
+        <obj_info name="steam_waste" realname="waste" type="sprite">
             <frames>
                 <i folder="0" file="0"/>
             </frames>
         </obj_info>
-        <obj_info name="worker_torso" realname="torso" type="sprite">
+        <obj_info name="steam_torso" realname="torso" type="sprite">
             <frames>
                 <i folder="0" file="1"/>
             </frames>
         </obj_info>
-        <obj_info name="worker_thigh" realname="thigh" type="sprite">
+        <obj_info name="steam_thigh" realname="thigh" type="sprite">
             <frames>
                 <i folder="0" file="2"/>
             </frames>
         </obj_info>
-        <obj_info name="worker_thigh_back" realname="thigh_back" type="sprite">
+        <obj_info name="steam_thigh_back" realname="thigh_back" type="sprite">
             <frames>
                 <i folder="0" file="2"/>
             </frames>
         </obj_info>
-        <obj_info name="worker_shoulder" realname="shoulder" type="sprite">
+        <obj_info name="steam_shoulder" realname="shoulder" type="sprite">
             <frames>
                 <i folder="0" file="3"/>
             </frames>
         </obj_info>
-        <obj_info name="worker_shin" realname="shin" type="sprite">
+        <obj_info name="steam_shin" realname="shin" type="sprite">
             <frames>
                 <i folder="0" file="4"/>
             </frames>
         </obj_info>
-        <obj_info name="worker_shin_back" realname="shin_back" type="sprite">
+        <obj_info name="steam_shin_back" realname="shin_back" type="sprite">
             <frames>
                 <i folder="0" file="4"/>
             </frames>
         </obj_info>
-        <obj_info name="worker_head" realname="head" type="sprite">
+        <obj_info name="steam_head" realname="head" type="sprite">
             <frames>
                 <i folder="0" file="5"/>
             </frames>
         </obj_info>
-        <obj_info name="worker_foot" realname="foot" type="sprite">
+        <obj_info name="steam_foot" realname="foot" type="sprite">
             <frames>
                 <i folder="0" file="6"/>
             </frames>
         </obj_info>
-        <obj_info name="worker_foot_back" realname="foot_back" type="sprite">
+        <obj_info name="steam_foot_back" realname="foot_back" type="sprite">
             <frames>
                 <i folder="0" file="6"/>
             </frames>
         </obj_info>
-        <obj_info name="worker_body" realname="body" type="sprite">
+        <obj_info name="steam_body" realname="body" type="sprite">
             <frames>
                 <i folder="0" file="7"/>
             </frames>
         </obj_info>
-        <obj_info name="worker_arm" realname="arm" type="sprite">
+        <obj_info name="steam_arm" realname="arm" type="sprite">
             <frames>
                 <i folder="0" file="8"/>
             </frames>
         </obj_info>
-        <obj_info name="worker_shoulder_back" realname="shoulder_back" type="sprite">
+        <obj_info name="steam_shoulder_back" realname="shoulder_back" type="sprite">
             <frames>
                 <i folder="0" file="3"/>
             </frames>
         </obj_info>
-        <obj_info name="worker_arm_back" realname="arm_back" type="sprite">
+        <obj_info name="steam_arm_back" realname="arm_back" type="sprite">
             <frames>
                 <i folder="0" file="8"/>
             </frames>
         </obj_info>
-        <obj_info name="worker_shadow" realname="shadow" type="sprite">
+        <obj_info name="steam_shadow" realname="shadow" type="sprite">
             <frames/>
         </obj_info>
         <animation id="0" name="idle" length="1470">
