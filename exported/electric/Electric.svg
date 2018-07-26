@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="ElectricAutomaton--Original.svg"
+   sodipodi:docname="Electric.svg"
    inkscape:export-filename="C:\Users\Ross Jones\Pictures\AutomatonsFinished.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -1593,7 +1593,7 @@
          style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          transform="matrix(1.8862288,0.06494629,-0.06494629,1.8862288,337.88217,342.71526)"
-         d="m 217.67857,179.05861 a 5.8035712,5.8035712 0 1 1 -11.60714,0 5.8035712,5.8035712 0 1 1 11.60714,0 z"
+         d="m 217.67857,179.05861 c 0,3.20522 -2.59835,5.80357 -5.80357,5.80357 -3.20522,0 -5.80357,-2.59835 -5.80357,-5.80357 0,-3.20522 2.59835,-5.80357 5.80357,-5.80357 3.20522,0 5.80357,2.59835 5.80357,5.80357 z"
          sodipodi:ry="5.8035712"
          sodipodi:rx="5.8035712"
          sodipodi:cy="179.05861"
@@ -1603,7 +1603,10 @@
          sodipodi:type="arc" />
     </g>
     <g
-       id="g3415">
+       id="g3415"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          id="path3538"
          d="m 371.97593,690.46576 23.66386,24.00978 -3.02463,10.81724 -25.74731,-28.15795"
@@ -1620,10 +1623,13 @@
          sodipodi:cy="179.05861"
          sodipodi:rx="5.8035712"
          sodipodi:ry="5.8035712"
-         d="m 217.67857,179.05861 a 5.8035712,5.8035712 0 1 1 -11.60714,0 5.8035712,5.8035712 0 1 1 11.60714,0 z" />
+         d="m 217.67857,179.05861 c 0,3.20522 -2.59835,5.80357 -5.80357,5.80357 -3.20522,0 -5.80357,-2.59835 -5.80357,-5.80357 0,-3.20522 2.59835,-5.80357 5.80357,-5.80357 3.20522,0 5.80357,2.59835 5.80357,5.80357 z" />
     </g>
     <g
-       id="g3411">
+       id="g3411"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          id="path3403"
          d="m 366.86785,697.13483 -21.85071,-37.12398 7.37947,-6.75986 19.57932,37.21477"
@@ -1641,10 +1647,13 @@
          sodipodi:cy="178.70146"
          sodipodi:rx="4.5535712"
          sodipodi:ry="4.5535712"
-         d="m 187.67857,178.70146 a 4.5535712,4.5535712 0 1 1 -9.10714,0 4.5535712,4.5535712 0 1 1 9.10714,0 z" />
+         d="m 187.67857,178.70146 c 0,2.51487 -2.0387,4.55357 -4.55357,4.55357 -2.51487,0 -4.55357,-2.0387 -4.55357,-4.55357 0,-2.51487 2.0387,-4.55357 4.55357,-4.55357 2.51487,0 4.55357,2.0387 4.55357,4.55357 z" />
     </g>
     <g
-       id="g3397">
+       id="g3397"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          id="path3391"
          d="m 310.19583,691.92325 -22.78294,23.30504 2.50491,10.82607 26.62823,-28.33413"
@@ -1653,7 +1662,7 @@
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
-         d="m 217.67857,179.05861 a 5.8035712,5.8035712 0 1 1 -11.60714,0 5.8035712,5.8035712 0 1 1 11.60714,0 z"
+         d="m 217.67857,179.05861 c 0,3.20522 -2.59835,5.80357 -5.80357,5.80357 -3.20522,0 -5.80357,-2.59835 -5.80357,-5.80357 0,-3.20522 2.59835,-5.80357 5.80357,-5.80357 3.20522,0 5.80357,2.59835 5.80357,5.80357 z"
          sodipodi:ry="5.8035712"
          sodipodi:rx="5.8035712"
          sodipodi:cy="179.05861"
@@ -1683,7 +1692,7 @@
          style="fill:#999999;stroke:#000000;stroke-width:1.88734663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          transform="matrix(1.8862288,0.06494629,-0.06494629,1.8862288,340.90368,352.75013)"
-         d="m 187.67857,178.70146 a 4.5535712,4.5535712 0 1 1 -9.10714,0 4.5535712,4.5535712 0 1 1 9.10714,0 z"
+         d="m 187.67857,178.70146 c 0,2.51487 -2.0387,4.55357 -4.55357,4.55357 -2.51487,0 -4.55357,-2.0387 -4.55357,-4.55357 0,-2.51487 2.0387,-4.55357 4.55357,-4.55357 2.51487,0 4.55357,2.0387 4.55357,4.55357 z"
          sodipodi:ry="4.5535712"
          sodipodi:rx="4.5535712"
          sodipodi:cy="178.70146"
@@ -1875,7 +1884,10 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
-       id="g3393">
+       id="g3393"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          id="path3585"
          d="m 317.25076,696.83931 15.12371,-41.74009 -6.1506,-8.36429 -15.14712,44.48358"
@@ -1884,7 +1896,7 @@
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
-         d="m 187.67857,178.70146 a 4.5535712,4.5535712 0 1 1 -9.10714,0 4.5535712,4.5535712 0 1 1 9.10714,0 z"
+         d="m 187.67857,178.70146 c 0,2.51487 -2.0387,4.55357 -4.55357,4.55357 -2.51487,0 -4.55357,-2.0387 -4.55357,-4.55357 0,-2.51487 2.0387,-4.55357 4.55357,-4.55357 2.51487,0 4.55357,2.0387 4.55357,4.55357 z"
          sodipodi:ry="4.5535712"
          sodipodi:rx="4.5535712"
          sodipodi:cy="178.70146"
@@ -1895,7 +1907,10 @@
          transform="matrix(1.277485,1.3892838,-1.3892838,1.277485,327.3712,212.982)" />
     </g>
     <g
-       id="g3427">
+       id="g3427"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g3419">
         <path
@@ -1940,7 +1955,10 @@
       </g>
     </g>
     <g
-       id="g3435">
+       id="g3435"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -1970,7 +1988,7 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <path
-       d="m 153.54318,258.12976 a 8.207489,8.207489 0 1 1 -16.41498,0 8.207489,8.207489 0 1 1 16.41498,0 z"
+       d="m 153.54318,258.12976 c 0,4.53287 -3.67462,8.20749 -8.20749,8.20749 -4.53287,0 -8.20749,-3.67462 -8.20749,-8.20749 0,-4.53287 3.67462,-8.20749 8.20749,-8.20749 4.53287,0 8.20749,3.67462 8.20749,8.20749 z"
        sodipodi:ry="8.207489"
        sodipodi:rx="8.207489"
        sodipodi:cy="258.12976"
@@ -2015,7 +2033,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       d="m 153.54318,258.12976 a 8.207489,8.207489 0 1 1 -16.41498,0 8.207489,8.207489 0 1 1 16.41498,0 z"
+       d="m 153.54318,258.12976 c 0,4.53287 -3.67462,8.20749 -8.20749,8.20749 -4.53287,0 -8.20749,-3.67462 -8.20749,-8.20749 0,-4.53287 3.67462,-8.20749 8.20749,-8.20749 4.53287,0 8.20749,3.67462 8.20749,8.20749 z"
        sodipodi:ry="8.207489"
        sodipodi:rx="8.207489"
        sodipodi:cy="258.12976"
@@ -2068,7 +2086,7 @@
        sodipodi:cy="258.12976"
        sodipodi:rx="8.207489"
        sodipodi:ry="8.207489"
-       d="m 153.54318,258.12976 a 8.207489,8.207489 0 1 1 -16.41498,0 8.207489,8.207489 0 1 1 16.41498,0 z"
+       d="m 153.54318,258.12976 c 0,4.53287 -3.67462,8.20749 -8.20749,8.20749 -4.53287,0 -8.20749,-3.67462 -8.20749,-8.20749 0,-4.53287 3.67462,-8.20749 8.20749,-8.20749 4.53287,0 8.20749,3.67462 8.20749,8.20749 z"
        inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2105,7 +2123,10 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
-       id="g3445">
+       id="g3445"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -2155,7 +2176,7 @@
          sodipodi:cy="474.98734"
          sodipodi:rx="8.84478"
          sodipodi:ry="8.84478"
-         d="m 166.16895,474.98734 a 8.84478,8.84478 0 1 1 -17.68956,0 8.84478,8.84478 0 1 1 17.68956,0 z"
+         d="m 166.16895,474.98734 c 0,4.88483 -3.95994,8.84478 -8.84478,8.84478 -4.88483,0 -8.84478,-3.95995 -8.84478,-8.84478 0,-4.88484 3.95995,-8.84478 8.84478,-8.84478 4.88484,0 8.84478,3.95994 8.84478,8.84478 z"
          transform="matrix(1.3051138,0,0,1.3051138,133.21819,137.75694)" />
     </g>
     <path
@@ -2168,7 +2189,10 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
-       id="g3382">
+       id="g3382"
+       inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -2183,7 +2207,7 @@
          inkscape:export-xdpi="90"
          inkscape:export-filename="C:\Users\Quinn\don't starve mods\Industry\exported\electric\electric\path4559.png"
          transform="translate(0,308.2677)"
-         d="m 341.63389,349.62878 a 4.9640627,4.9640627 0 1 1 -9.92812,0 4.9640627,4.9640627 0 1 1 9.92812,0 z"
+         d="m 341.63389,349.62878 c 0,2.74158 -2.22248,4.96407 -4.96406,4.96407 -2.74158,0 -4.96406,-2.22249 -4.96406,-4.96407 0,-2.74157 2.22248,-4.96406 4.96406,-4.96406 2.74158,0 4.96406,2.22249 4.96406,4.96406 z"
          sodipodi:ry="4.9640627"
          sodipodi:rx="4.9640627"
          sodipodi:cy="349.62878"
@@ -2227,7 +2251,7 @@
        sodipodi:cy="474.98734"
        sodipodi:rx="8.84478"
        sodipodi:ry="8.84478"
-       d="m 166.16895,474.98734 a 8.84478,8.84478 0 1 1 -17.68956,0 8.84478,8.84478 0 1 1 17.68956,0 z"
+       d="m 166.16895,474.98734 c 0,4.88483 -3.95994,8.84478 -8.84478,8.84478 -4.88483,0 -8.84478,-3.95995 -8.84478,-8.84478 0,-4.88484 3.95995,-8.84478 8.84478,-8.84478 4.88484,0 8.84478,3.95994 8.84478,8.84478 z"
        transform="matrix(1.3051138,0,0,1.3051138,443.48704,136.69239)"
        inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\g3493.png"
        inkscape:export-xdpi="90"
@@ -2275,7 +2299,7 @@
          d="m 665.99311,633.83471 c -7.96692,8.98659 -7.31873,12.09002 -46.29396,3.38737 10.51724,13.80527 23.53168,26.83511 29.54534,50.99862 6.5901,-12.79369 15.86392,-34.33499 16.74862,-54.38599 z"
          style="fill:#ffcc01;fill-opacity:1;stroke:#000000;stroke-width:1.88699996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
-         d="m 341.63389,349.62878 a 4.9640627,4.9640627 0 1 1 -9.92812,0 4.9640627,4.9640627 0 1 1 9.92812,0 z"
+         d="m 341.63389,349.62878 c 0,2.74158 -2.22248,4.96407 -4.96406,4.96407 -2.74158,0 -4.96406,-2.22249 -4.96406,-4.96407 0,-2.74157 2.22248,-4.96406 4.96406,-4.96406 2.74158,0 4.96406,2.22249 4.96406,4.96406 z"
          sodipodi:ry="4.9640627"
          sodipodi:rx="4.9640627"
          sodipodi:cy="349.62878"
@@ -2320,7 +2344,7 @@
          sodipodi:cy="178.70146"
          sodipodi:rx="4.5535712"
          sodipodi:ry="4.5535712"
-         d="m 187.67857,178.70146 a 4.5535712,4.5535712 0 1 1 -9.10714,0 4.5535712,4.5535712 0 1 1 9.10714,0 z" />
+         d="m 187.67857,178.70146 c 0,2.51487 -2.0387,4.55357 -4.55357,4.55357 -2.51487,0 -4.55357,-2.0387 -4.55357,-4.55357 0,-2.51487 2.0387,-4.55357 4.55357,-4.55357 2.51487,0 4.55357,2.0387 4.55357,4.55357 z" />
     </g>
     <g
        inkscape:export-ydpi="90"
@@ -2565,7 +2589,7 @@
          sodipodi:cy="474.98734"
          sodipodi:rx="8.84478"
          sodipodi:ry="8.84478"
-         d="m 166.16895,474.98734 a 8.84478,8.84478 0 1 1 -17.68956,0 8.84478,8.84478 0 1 1 17.68956,0 z"
+         d="m 166.16895,474.98734 c 0,4.88483 -3.95994,8.84478 -8.84478,8.84478 -4.88483,0 -8.84478,-3.95995 -8.84478,-8.84478 0,-4.88484 3.95995,-8.84478 8.84478,-8.84478 4.88484,0 8.84478,3.95994 8.84478,8.84478 z"
          transform="matrix(1.3051138,0,0,1.3051138,602.95037,140.42982)"
          inkscape:export-filename="C:\Users\Quinn\don't starve mods\automatons\g3493.png"
          inkscape:export-xdpi="90"
